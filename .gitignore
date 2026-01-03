@@ -1,0 +1,18 @@
+# Arquivos Gerados pelo Python
+*.pyc
+*.pyo
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Arquivos Sensíveis
+.venv
+.env
+credenciais/
+*.xlsx
+*.xlsm
+*.pdf
+imagens/
