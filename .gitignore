@@ -15,4 +15,6 @@ credenciais/
 *.xlsx
 *.xlsm
 *.pdf
+*.csv
 imagens/
+planilhas/
