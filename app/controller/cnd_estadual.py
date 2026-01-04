@@ -1,6 +1,6 @@
 from playwright.sync_api import sync_playwright
 
-def baixar_cnd(cnpj):
+def baixar_cnd(cnpj: str, caminho_saida: str = "cnd.pdf"):
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=False)
         page = browser.new_page()
@@ -24,7 +24,7 @@ def baixar_cnd(cnpj):
 
         # Salvar PDF
         pdf_bytes = pdf_page.pdf(format="A4", print_background=True)
-        with open("cnd.pdf", "wb") as f:
+        with open(caminho_saida, "wb") as f:
             f.write(pdf_bytes)
 
         browser.close()

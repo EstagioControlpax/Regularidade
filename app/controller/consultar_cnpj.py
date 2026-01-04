@@ -123,23 +123,3 @@ def consultar_cnpjs(lista_cnpjs: list) -> list:
             time.sleep(5)
 
     return resultados
-
-def ler_csv(caminho_arquivo: str) -> list:
-    cnpjs = []
-    with open(caminho_arquivo, "r", encoding="utf-8") as f:
-        for linha in f:
-            cnpj = linha.strip()
-            cnpj = cnpj.replace(".", "").replace("/", "").replace("-", "")
-            if cnpj:
-                cnpjs.append(cnpj)
-    return cnpjs
-
-
-
-if __name__ == "__main__":
-    lista = ler_csv(r"C:\Users\valbe\PycharmProjects\12_CNDs\planilhas\CNPJs.csv")
-    resultados = consultar_cnpjs(lista)
-    with open("resultado.csv", "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=resultados[0].keys())
-        writer.writeheader()
-        writer.writerows(resultados)
