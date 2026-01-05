@@ -1,14 +1,14 @@
-def ler_csv(caminho_arquivo: str) -> list:
-    cnpjs = []
-    empresas = []
+def ler_csv(caminho_arquivo: str) -> dict:
+    empresas = {}
     with open(caminho_arquivo, "r", encoding="utf-8") as f:
         for linha in f:
-            cnpj = linha.strip()
-            cnpj = linha.split(";")[0].strip()
-            cnpj = cnpj.replace(".", "").replace("/", "").replace("-", "")
-            empresa = linha.split(";")[1].strip()
-            if empresa:
-                empresas.append(empresa)
-            if cnpj:
-                cnpjs.append(cnpj)
-    return cnpjs, empresa
+            linha = linha.strip()
+            if not linha:
+                continue
+            partes = linha.split(";")
+            if len(partes) < 2:
+                continue
+            cnpj = partes[0].strip().replace(".", "").replace("/", "").replace("-", "")
+            empresa = partes[1].strip()
+            empresas[cnpj] = empresa
+    return empresas

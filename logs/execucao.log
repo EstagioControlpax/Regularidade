@@ -1,0 +1,2370 @@
+2026-01-04 22:46:43,000 - INFO - CND baixada com sucesso: ﻿12975048000102 - A. T. S. SERVICOS LTDA
+2026-01-04 22:46:50,220 - INFO - CND baixada com sucesso: 24520905000150 - C. T. C. CONSULTORIA EM MARKETING LTDA
+2026-01-04 22:47:05,064 - INFO - CND baixada com sucesso: 00113024000157 - BRANDAO TRANSPORTES LTDA
+2026-01-04 22:47:18,027 - INFO - CND baixada com sucesso: 28318136000163 - CONTROLPAX CONTABILIDADE E GESTAO LTDA
+2026-01-04 22:47:26,039 - INFO - CND baixada com sucesso: 29838243000185 - CENTRAL FITNESS ESPORTES LTDA
+2026-01-04 22:47:34,408 - INFO - CND baixada com sucesso: 07456291000176 - COMERCIAL DE OCULOS ALFA LTDA
+2026-01-04 22:47:45,181 - INFO - CND baixada com sucesso: 36579697000144 - COMERCIAL DE OCULOS CAPA LTDA
+2026-01-04 22:47:48,874 - INFO - CND baixada com sucesso: 29815952000145 - CENTRO INTEGRADO VETERINARIO DE FORTALEZA LTDA
+2026-01-04 22:47:55,874 - INFO - CND baixada com sucesso: 07650567000233 - COMERCIAL E IMPORTADORA OMEGA LTDA
+2026-01-04 22:48:33,625 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 07650567000152 (COMERCIAL E IMPORTADORA OMEGA LTDA): Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("label[for=\"cnpj\"]")
+    - locator resolved to <label for="cnpj" class="form-label">CNPJ (pessoas jurídicas)</label>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="page-loader-wrapper">…</div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-01-04 22:48:37,723 - INFO - CND baixada com sucesso: 07650567000152 - COMERCIAL E IMPORTADORA OMEGA LTDA
+2026-01-04 22:48:48,480 - INFO - CND baixada com sucesso: 08983523000107 - COMPANHIA JEANS LTDA
+2026-01-04 22:48:58,241 - INFO - CND baixada com sucesso: 25988467000201 - COMERCIAL DE OCULOS SIGMA LTDA
+2026-01-04 22:49:33,711 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 41175762000106 (CAVE ARTES, REPRESENTACAO E CULTURA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 22:49:46,028 - INFO - CND baixada com sucesso: 41175762000106 - CAVE ARTES, REPRESENTACAO E CULTURA LTDA
+2026-01-04 22:49:53,648 - INFO - CND baixada com sucesso: 27928447000181 - A2P PARTNERS GESTAO E CONSULTORIA LTDA
+2026-01-04 22:50:04,102 - INFO - CND baixada com sucesso: 34076418000102 - CENTRO DE SAUDE DR ANDRE CAVALCANTE LTDA
+2026-01-04 22:50:20,575 - INFO - CND baixada com sucesso: 28706485000152 - BRAAIM PLATAFORMA ELETRONICA DE INVESTIMENTOS LTDA
+2026-01-04 22:50:29,327 - INFO - CND baixada com sucesso: 41945324000180 - 2ND MARKET HOLDING PARTICIPACOES LTDA
+2026-01-04 22:51:06,832 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 00080056407300 (CARLOS EDUARDO CUNHA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 22:51:39,212 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 00080056407300 (CARLOS EDUARDO CUNHA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 22:52:11,853 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 00080056407300 (CARLOS EDUARDO CUNHA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 22:52:44,415 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 00080056407300 (CARLOS EDUARDO CUNHA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 22:53:16,978 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 00080056407300 (CARLOS EDUARDO CUNHA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 22:53:47,992 - INFO - CND baixada com sucesso: 34717567000103 - BRISA DEL MAR POUSADA LTDA
+2026-01-04 22:54:07,681 - INFO - CND baixada com sucesso: 43239218000106 - BANKAI TECNOLOGIA E GESTAO DE ATIVOS DIGITAIS LTDA
+2026-01-04 22:54:20,946 - INFO - CND baixada com sucesso: 43410127000191 - BRAEX TECNOLOGIA E SERVICOS DIGITAIS LTDA
+2026-01-04 22:54:57,324 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 44131206000126 (CREATIVE SKYLINE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 22:55:08,576 - INFO - CND baixada com sucesso: 44131206000126 - CREATIVE SKYLINE LTDA
+2026-01-04 22:55:12,258 - INFO - CND baixada com sucesso: 44428681000169 - CONSTRUTORA ALFA E SERVICOS ADMINISTRATIVOS LTDA
+2026-01-04 22:55:18,119 - INFO - CND baixada com sucesso: 40699734000125 - CLINICA VETERINARIA VET INTENSIVO DE FORTALEZA LTDA
+2026-01-04 22:55:26,066 - INFO - CND baixada com sucesso: 35237796000185 - C J PEREIRA CENTRO DE SERVICOS DE APOIO EMPRESARIAL LTDA
+2026-01-04 22:55:30,916 - INFO - CND baixada com sucesso: 34717567000286 - BRISA DEL MAR POUSADA LTDA
+2026-01-04 22:55:39,501 - INFO - CND baixada com sucesso: 45012279000161 - C. C. MANUTENCAO LTDA
+2026-01-04 22:56:16,630 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 45113605000127 (CARAMELO HOSPEDAGEM POR TEMPORADA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 22:56:24,731 - INFO - CND baixada com sucesso: 45113605000127 - CARAMELO HOSPEDAGEM POR TEMPORADA LTDA
+2026-01-04 22:56:35,638 - INFO - CND baixada com sucesso: 45096182000184 - CEMITERIO MEMORIAL DA PAZ LTDA
+2026-01-04 22:56:43,585 - INFO - CND baixada com sucesso: 04082338000190 - ACAO SOCIAL LUMEN
+2026-01-04 22:56:52,976 - INFO - CND baixada com sucesso: 15496486000178 - ALTRONIC SERVICOS LTDA
+2026-01-04 22:57:03,146 - INFO - CND baixada com sucesso: 24084735000109 - CGMS MINERACAO LTDA
+2026-01-04 22:57:10,538 - INFO - CND baixada com sucesso: 43836563000127 - AZ-TECH COMERCIO E SERVICOS LTDA
+2026-01-04 22:57:46,766 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 46655640000130 (C. I. SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 22:57:55,849 - INFO - CND baixada com sucesso: 46655640000130 - C. I. SERVICOS LTDA
+2026-01-04 22:58:31,112 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 01864713000166 (ABRAAO FERNANDES COMERCIAL DE PRODUTOS VETERINARIOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 22:59:04,110 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 01864713000166 (ABRAAO FERNANDES COMERCIAL DE PRODUTOS VETERINARIOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 22:59:37,008 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 01864713000166 (ABRAAO FERNANDES COMERCIAL DE PRODUTOS VETERINARIOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:00:13,694 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 01864713000166 (ABRAAO FERNANDES COMERCIAL DE PRODUTOS VETERINARIOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:00:46,012 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 01864713000166 (ABRAAO FERNANDES COMERCIAL DE PRODUTOS VETERINARIOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:01:22,746 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 30246566000169 (A A COMERCIAL DE PRODUTOS VETERINARIOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:01:35,987 - INFO - CND baixada com sucesso: 30246566000169 - A A COMERCIAL DE PRODUTOS VETERINARIOS LTDA
+2026-01-04 23:01:57,929 - INFO - CND baixada com sucesso: 48049414000131 - CUSTON TECNOLOGIA E CUSTODIA DE ATIVOS DIGITAIS LTDA
+2026-01-04 23:02:09,064 - INFO - CND baixada com sucesso: 48203388000154 - ABRAAO FERNANDES CENTRO DE ESTETICA E SERVICOS VETERINARIOS LTDA
+2026-01-04 23:02:33,949 - INFO - CND baixada com sucesso: 46601676000131 - COMET PRODUTOS E SERVICOS LTDA
+2026-01-04 23:02:38,106 - INFO - CND baixada com sucesso: 32850702000150 - ARRETADO BAR E RESTAURANTE LTDA
+2026-01-04 23:02:59,731 - INFO - CND baixada com sucesso: 49746809000156 - ARRETADO SERVICOS DE APOIO ADMINISTRATIVOS LTDA
+2026-01-04 23:03:24,461 - INFO - CND baixada com sucesso: 49926094000113 - D. GOMES SERVICOS FINANCEIRO LTDA
+2026-01-04 23:03:32,269 - INFO - CND baixada com sucesso: 50301108000192 - COMERCIAL DE OCULOS DELTA LTDA
+2026-01-04 23:03:46,648 - INFO - CND baixada com sucesso: 51324340000109 - AE HOLDING PARTICIPACOES LTDA
+2026-01-04 23:03:58,809 - INFO - CND baixada com sucesso: 49605643000158 - COMPLEXO S&J SOLAR LTDA
+2026-01-04 23:04:03,070 - INFO - CND baixada com sucesso: 51049927000157 - AZ-TECH SOLUCOES INDUSTRIAIS LTDA
+2026-01-04 23:04:39,134 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 51794671000102 (CLINICA VET SERVICO VETERINARIOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:04:52,952 - INFO - CND baixada com sucesso: 51794671000102 - CLINICA VET SERVICO VETERINARIOS LTDA
+2026-01-04 23:05:19,940 - INFO - CND baixada com sucesso: 51844482000105 - AKLA COMERCIAL DE PRODUTOS VETERINARIOS
+2026-01-04 23:05:49,504 - INFO - CND baixada com sucesso: 52278578000108 - CARIRI V.S.I SERVICOS LTDA
+2026-01-04 23:06:26,283 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 52402083000149 (BAX CONSTRUCOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:06:32,354 - INFO - CND baixada com sucesso: 52402083000149 - BAX CONSTRUCOES LTDA
+2026-01-04 23:07:09,184 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 40650450000144 (BRUNO RANIERE ARAUJO DINIZ 04846277321): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:07:45,171 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 40650450000144 (BRUNO RANIERE ARAUJO DINIZ 04846277321): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:08:10,012 - INFO - CND baixada com sucesso: 40650450000144 - BRUNO RANIERE ARAUJO DINIZ 04846277321
+2026-01-04 23:08:50,090 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 53120823000117 (C.M.J SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:09:22,446 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 53120823000117 (C.M.J SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:09:55,057 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 53120823000117 (C.M.J SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:10:04,869 - INFO - CND baixada com sucesso: 53120823000117 - C.M.J SERVICOS LTDA
+2026-01-04 23:10:16,383 - INFO - CND baixada com sucesso: 53325028000165 - C. E. C. CAVALCANTE LTDA
+2026-01-04 23:10:28,662 - INFO - CND baixada com sucesso: 53327663000181 - AFB CENTRO AUTOMOTIVO LTDA
+2026-01-04 23:10:32,470 - INFO - CND baixada com sucesso: 07222235000177 - C. A. COMERCIO DE TINTAS E VERNIZES LTDA
+2026-01-04 23:11:08,138 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 02205577000165 (A. E. COMERCIO VAREJISTA DE TINTAS IMOBILIARIAS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:11:40,624 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 02205577000165 (A. E. COMERCIO VAREJISTA DE TINTAS IMOBILIARIAS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:12:18,830 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 02205577000165 (A. E. COMERCIO VAREJISTA DE TINTAS IMOBILIARIAS LTDA): Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("label[for=\"cnpj\"]")
+    - locator resolved to <label for="cnpj" class="form-label">CNPJ (pessoas jurídicas)</label>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="page-loader-wrapper">…</div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-01-04 23:12:55,992 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 02205577000165 (A. E. COMERCIO VAREJISTA DE TINTAS IMOBILIARIAS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:13:35,116 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 02205577000165 (A. E. COMERCIO VAREJISTA DE TINTAS IMOBILIARIAS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:13:52,481 - INFO - CND baixada com sucesso: 07954415000143 - COMERCIO E REPRESENTACOES VISAO LTDA
+2026-01-04 23:14:01,287 - INFO - CND baixada com sucesso: 07954415000224 - COMERCIO E REPRESENTACOES VISAO LTDA
+2026-01-04 23:14:09,237 - INFO - CND baixada com sucesso: 20853405000180 - CONSTRUTORA BENIS LTDA
+2026-01-04 23:14:20,893 - INFO - CND baixada com sucesso: 54772195000117 - CHEZ VERANEIO ASSESSORIA EM SERVICOS DE HOSPEDAGENS LTDA
+2026-01-04 23:14:32,046 - INFO - CND baixada com sucesso: 43728706000187 - ANTECIPCARD PARTICIPACOES LTDA
+2026-01-04 23:14:35,736 - INFO - CND baixada com sucesso: 15413521000148 - BRUNO BRASIL VIEIRA
+2026-01-04 23:14:45,328 - INFO - CND baixada com sucesso: 53326903000123 - CASA PHILO LTDA
+2026-01-04 23:14:49,670 - INFO - CND baixada com sucesso: 34984430000107 - CM CLINICA MEDICA LTDA
+2026-01-04 23:14:57,952 - INFO - CND baixada com sucesso: 56876739000116 - CONTROLPAX GESTAO EMPRESARIAL LTDA
+2026-01-04 23:15:09,787 - INFO - CND baixada com sucesso: 43728706000268 - ANTECIPCARD PARTICIPACOES LTDA
+2026-01-04 23:15:45,710 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 31526773000130 (CANKLIN COMPANHIA DE ALIMENTOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:16:25,194 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 31526773000130 (CANKLIN COMPANHIA DE ALIMENTOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:16:58,307 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 31526773000130 (CANKLIN COMPANHIA DE ALIMENTOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:17:34,226 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 31526773000130 (CANKLIN COMPANHIA DE ALIMENTOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:18:06,714 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 31526773000130 (CANKLIN COMPANHIA DE ALIMENTOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:18:18,901 - INFO - CND baixada com sucesso: 43704085000100 - C.M. SERVICOS LTDA
+2026-01-04 23:18:29,661 - INFO - CND baixada com sucesso: 39956078000110 - CANKLIN SERVICOS LTDA
+2026-01-04 23:18:33,372 - INFO - CND baixada com sucesso: 59166954000111 - COMERCIAL MIRAMAR LTDA
+2026-01-04 23:18:40,350 - INFO - CND baixada com sucesso: 59184188000118 - CENTRO OTICO SHOPPING KENNEDY LTDA
+2026-01-04 23:18:50,374 - INFO - CND baixada com sucesso: 59184348000129 - COMERCIAL DE OCULOS BELLEVIE LTDA
+2026-01-04 23:18:54,481 - INFO - CND baixada com sucesso: 59183885000154 - CENTRO OTICO SHOPPING EUSEBIO LTDA
+2026-01-04 23:19:08,667 - INFO - CND baixada com sucesso: 59196244000134 - CENTRO 01 COMERCIAL DE OCULOS LTDA
+2026-01-04 23:19:12,284 - INFO - CND baixada com sucesso: 59196304000119 - CENTRO 02 COMERCIAL DE OCULOS LTDA
+2026-01-04 23:19:19,599 - INFO - CND baixada com sucesso: 13002576000130 - 4GVE MANUTENCAO DE VEICULOS ELETRICOS LTDA
+2026-01-04 23:19:26,936 - INFO - CND baixada com sucesso: 58856112000129 - 58.856.112 ERIKA MEDEIROS GOMES
+2026-01-04 23:19:39,791 - INFO - CND baixada com sucesso: 62239874000153 - 8 OITO IMOBILIARIA LTDA
+2026-01-04 23:19:50,800 - INFO - CND baixada com sucesso: 59209877000130 - COMERCIAL MATRIZ LTDA
+2026-01-04 23:20:26,297 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 59592050000158 (A.S. SERVICOS DE GESTAO COMERCIAL LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:20:38,494 - INFO - CND baixada com sucesso: 59592050000158 - A.S. SERVICOS DE GESTAO COMERCIAL LTDA
+2026-01-04 23:21:14,743 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 59303079000172 (COMERCIO DE OCULOS LOJA SETE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:21:27,103 - INFO - CND baixada com sucesso: 59303079000172 - COMERCIO DE OCULOS LOJA SETE LTDA
+2026-01-04 23:21:33,495 - INFO - CND baixada com sucesso: 59303260000189 - COMERCIAL DE OCULOS LOJA NOVE LTDA
+2026-01-04 23:21:37,325 - INFO - CND baixada com sucesso: 59189664000193 - CENTRO OTICO SHOPPING PARANGABA LTDA
+2026-01-04 23:21:49,589 - INFO - CND baixada com sucesso: 59303346000101 - COMERCIO DE OCULOS LOJA DEZESSEIS LTDA
+2026-01-04 23:22:01,599 - INFO - CND baixada com sucesso: 55590322000120 - ADA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA
+2026-01-04 23:22:14,927 - INFO - CND baixada com sucesso: 55590322000200 - ADA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA
+2026-01-04 23:22:22,494 - INFO - CND baixada com sucesso: 51480653000156 - AF ODONTO - CONSULTORIO ODONTOLOGICO LTDA
+2026-01-04 23:22:25,890 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 58840807000112 (AFV ENERGIA SOLAR LTDA): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-04 23:22:42,481 - INFO - CND baixada com sucesso: 58840807000112 - AFV ENERGIA SOLAR LTDA
+2026-01-04 23:23:02,468 - INFO - CND baixada com sucesso: 60293798000139 - AGROTECH SERVICOS DE HIDROPONIA LTDA
+2026-01-04 23:23:14,647 - INFO - CND baixada com sucesso: 30999143000110 - DCCF PARTICIPACOES E INCORPORACOES LTDA
+2026-01-04 23:23:21,374 - INFO - CND baixada com sucesso: 55710326000102 - ALFA CORPORACAO LTDA
+2026-01-04 23:23:30,263 - INFO - CND baixada com sucesso: 54208084000182 - ALUMIGLASS.TECH SOLUCOES LTDA
+2026-01-04 23:23:36,126 - INFO - CND baixada com sucesso: 52852930000177 - AMAJES EMPREENDIMENTOS E MARKETING LTDA
+2026-01-04 23:23:51,707 - INFO - CND baixada com sucesso: 52839300000162 - ANA FLAVIA PAIVA RODRIGUES LTDA
+2026-01-04 23:23:58,994 - INFO - CND baixada com sucesso: 50822206000175 - DEMS GEOLOGIA E MEIO AMBIENTE LTDA
+2026-01-04 23:24:37,587 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 22490976000122 (ANORI PARTICIPACOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:24:45,911 - INFO - CND baixada com sucesso: 22490976000122 - ANORI PARTICIPACOES LTDA
+2026-01-04 23:25:10,482 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 54190985000194 (ANTECIPSEC SECURITIZADORA S/A): [Errno 2] No such file or directory: 'data/documentos/Estadual/CND_Estadual - 54190985000194 - ANTECIPSEC SECURITIZADORA S/A.pdf'
+2026-01-04 23:25:32,434 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 54190985000194 (ANTECIPSEC SECURITIZADORA S/A): [Errno 2] No such file or directory: 'data/documentos/Estadual/CND_Estadual - 54190985000194 - ANTECIPSEC SECURITIZADORA S/A.pdf'
+2026-01-04 23:26:07,968 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 54190985000194 (ANTECIPSEC SECURITIZADORA S/A): [Errno 2] No such file or directory: 'data/documentos/Estadual/CND_Estadual - 54190985000194 - ANTECIPSEC SECURITIZADORA S/A.pdf'
+2026-01-04 23:26:37,228 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 54190985000194 (ANTECIPSEC SECURITIZADORA S/A): [Errno 2] No such file or directory: 'data/documentos/Estadual/CND_Estadual - 54190985000194 - ANTECIPSEC SECURITIZADORA S/A.pdf'
+2026-01-04 23:26:45,389 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 54190985000194 (ANTECIPSEC SECURITIZADORA S/A): [Errno 2] No such file or directory: 'data/documentos/Estadual/CND_Estadual - 54190985000194 - ANTECIPSEC SECURITIZADORA S/A.pdf'
+2026-01-04 23:27:22,148 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 43099623000176 (ARATANHA EMPREENDIMENTOS E PARTICIPACOES LTDA): Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("label[for=\"cnpj\"]")
+    - locator resolved to <label for="cnpj" class="form-label">CNPJ (pessoas jurídicas)</label>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="page-loader-wrapper">…</div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-01-04 23:27:54,839 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 43099623000176 (ARATANHA EMPREENDIMENTOS E PARTICIPACOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:28:17,420 - INFO - CND baixada com sucesso: 43099623000176 - ARATANHA EMPREENDIMENTOS E PARTICIPACOES LTDA
+2026-01-04 23:28:51,423 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 97937238000180 (ARRETADO BAR E RESTAURANTE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:28:58,975 - INFO - CND baixada com sucesso: 97937238000180 - ARRETADO BAR E RESTAURANTE LTDA
+2026-01-04 23:29:07,611 - INFO - CND baixada com sucesso: 62140224000156 - ARRETADO SERVICOS LTDA
+2026-01-04 23:29:17,795 - INFO - CND baixada com sucesso: 60137075000140 - CENTRO DE SERVICOS VISAO QUATORZE LTDA
+2026-01-04 23:29:49,459 - INFO - CND baixada com sucesso: 59762754000121 - ASN PARTICIPACOES SPE LTDA
+2026-01-04 23:29:52,965 - INFO - CND baixada com sucesso: 60137008000126 - CENTRO DE SERVICOS VISAO VINTE E OITO LTDA
+2026-01-04 23:30:28,121 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 58400501000145 (ASO SERVICOS MEDICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:30:31,710 - INFO - CND baixada com sucesso: 58400501000145 - ASO SERVICOS MEDICOS LTDA
+2026-01-04 23:31:10,362 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 45096182000265 (CEMITERIO MEMORIAL ALTO DA PAZ LTDA): Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("label[for=\"cnpj\"]")
+    - locator resolved to <label for="cnpj" class="form-label">CNPJ (pessoas jurídicas)</label>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="page-loader-wrapper">…</div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-01-04 23:31:19,632 - INFO - CND baixada com sucesso: 45096182000265 - CEMITERIO MEMORIAL ALTO DA PAZ LTDA
+2026-01-04 23:31:28,443 - INFO - CND baixada com sucesso: 35065192000107 - ASSOCIACAO DOS JOVENS EMPRESARIOS
+2026-01-04 23:31:38,472 - INFO - CND baixada com sucesso: 63948904000163 - AZ-CONSTRUCOES LTDA
+2026-01-04 23:31:43,415 - INFO - CND baixada com sucesso: 60370643000159 - CENTRO DE SERVICOS VISAO MARANGUAPE LTDA
+2026-01-04 23:31:44,523 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 63948868000138 (AZ-MAQ LTDA): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-04 23:32:00,970 - INFO - CND baixada com sucesso: 63948868000138 - AZ-MAQ LTDA
+2026-01-04 23:32:04,687 - INFO - CND baixada com sucesso: 60368414000108 - CENTRO DE SERVICOS MJ LTDA
+2026-01-04 23:32:15,047 - INFO - CND baixada com sucesso: 43836563000208 - AZ-TECH COMERCIO E SERVICOS LTDA
+2026-01-04 23:32:50,587 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 08393778000110 (AZ-TECH LOCACOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:32:59,431 - INFO - CND baixada com sucesso: 08393778000110 - AZ-TECH LOCACOES LTDA
+2026-01-04 23:33:22,607 - INFO - CND baixada com sucesso: 50057724000140 - BARBEARIA BRAVERON LTDA
+2026-01-04 23:33:33,651 - INFO - CND baixada com sucesso: 60311624000151 - BASIKI SWIMWEAR COMERCIO DIGITAL LTDA
+2026-01-04 23:33:58,477 - INFO - CND baixada com sucesso: 58333114000133 - BCS SERVICOS MEDICOS LTDA
+2026-01-04 23:34:29,163 - INFO - CND baixada com sucesso: 48858742000189 - BEATRIZ ROCHA ALVES DO NASCIMENTO LTDA
+2026-01-04 23:35:05,306 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 62018849000140 (BEHAVIOR & HEALTH TECH INSTITUTE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:35:31,048 - INFO - CND baixada com sucesso: 62018849000140 - BEHAVIOR & HEALTH TECH INSTITUTE LTDA
+2026-01-04 23:36:07,381 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 56058748000108 (CORMESTRE DISTRIBUIDORA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:36:19,990 - INFO - CND baixada com sucesso: 56058748000108 - CORMESTRE DISTRIBUIDORA LTDA
+2026-01-04 23:36:26,614 - INFO - CND baixada com sucesso: 63118084000182 - BRAIN. MED NEGOCIOS, INOVACAO E NETWORKING MEDICO LTDA
+2026-01-04 23:36:30,780 - INFO - CND baixada com sucesso: 22840021000158 - C M O MARTINS CONSULTORIA
+2026-01-04 23:36:42,074 - INFO - CND baixada com sucesso: 22490939000114 - CAJURU PATICIPACOES LTDA
+2026-01-04 23:37:18,859 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 47682146000128 (CAMILA QUINTO PINHEIRO): Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("label[for=\"cnpj\"]")
+    - locator resolved to <label for="cnpj" class="form-label">CNPJ (pessoas jurídicas)</label>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    54 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="page-loader-wrapper">…</div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+
+2026-01-04 23:37:35,902 - INFO - CND baixada com sucesso: 47682146000128 - CAMILA QUINTO PINHEIRO
+2026-01-04 23:38:08,333 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 00023243317304 (CARLOS ROBERTO CARVALHO FUJITA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:38:41,138 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 00023243317304 (CARLOS ROBERTO CARVALHO FUJITA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:39:13,590 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 00023243317304 (CARLOS ROBERTO CARVALHO FUJITA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:39:45,983 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 00023243317304 (CARLOS ROBERTO CARVALHO FUJITA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:40:24,711 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 00023243317304 (CARLOS ROBERTO CARVALHO FUJITA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:40:28,892 - INFO - CND baixada com sucesso: 35087272000155 - CF5 HOLDING PARTICIPACOES LTDA
+2026-01-04 23:40:35,692 - INFO - CND baixada com sucesso: 63190030000128 - CENTRO DE MEDICINA VETERINARIA LTDA
+2026-01-04 23:40:53,087 - INFO - CND baixada com sucesso: 64035591000115 - CENTRO DE SAUDE CUNHA CAVALCANTE LTDA
+2026-01-04 23:41:09,519 - INFO - CND baixada com sucesso: 62211209000151 - CENTRO INTEGRADO DE SAUDE ANIMAL DE FORTALEZA LTDA
+2026-01-04 23:41:14,815 - INFO - CND baixada com sucesso: 07177611000159 - CERAMICA NORGUACU SA
+2026-01-04 23:41:25,587 - INFO - CND baixada com sucesso: 19913162000149 - CHS CONSULTORIA LTDA
+2026-01-04 23:41:43,238 - INFO - CND baixada com sucesso: 13510187000115 - CHS GESTAO EMPRESARIAL LTDA
+2026-01-04 23:41:49,926 - INFO - CND baixada com sucesso: 09456141000198 - CHS SERVICOS DE APOIO LTDA
+2026-01-04 23:42:01,298 - INFO - CND baixada com sucesso: 48273195000170 - CICLONE HOLDING PATRIMONIAL LTDA
+2026-01-04 23:42:14,549 - INFO - CND baixada com sucesso: 19554253000135 - CLOUDWAY SERVIÇOS DIGITAIS LTDA
+2026-01-04 23:42:27,268 - INFO - CND baixada com sucesso: 58583685000126 - COMERCIAL EDUCAINTER UNIDADE 01 LTDA
+2026-01-04 23:43:02,049 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 58587316000101 (COMERCIAL EDUCAINTER UNIDADE 13 LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:43:27,450 - INFO - CND baixada com sucesso: 58587316000101 - COMERCIAL EDUCAINTER UNIDADE 13 LTDA
+2026-01-04 23:43:54,880 - INFO - CND baixada com sucesso: 58582984000146 - COMERCIAL EDUCAINTER UNIDADE 19 LTDA
+2026-01-04 23:44:07,902 - INFO - CND baixada com sucesso: 08376897000164 - COMERCIO, REPRESENTACOES E SERVICOS DE TINTAS ROCHA EIRELI
+2026-01-04 23:44:26,360 - INFO - CND baixada com sucesso: 57315233000109 - CONECTA CONSTRUTORA LTDA
+2026-01-04 23:44:30,059 - INFO - CND baixada com sucesso: 09503459000182 - CONSTRAL CONSTRUTORA ALVES LTDA
+2026-01-04 23:45:00,183 - INFO - CND baixada com sucesso: 07615557000186 - CONSTRUPISOS COMERCIO DE PISOS E TINTAS LTDA
+2026-01-04 23:45:22,485 - INFO - CND baixada com sucesso: 05967159000101 - CONTROLPAX CONTABILIDADE E GESTAO LTDA
+2026-01-04 23:45:55,108 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 63333879000103 (CRA ENGENHARIA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:46:05,293 - INFO - CND baixada com sucesso: 63333879000103 - CRA ENGENHARIA LTDA
+2026-01-04 23:46:26,220 - INFO - CND baixada com sucesso: 52646941000109 - CREATIFY LTDA
+2026-01-04 23:46:43,050 - INFO - CND baixada com sucesso: 61594025000155 - CREDTAR ELETRO LTDA
+2026-01-04 23:47:01,402 - INFO - CND baixada com sucesso: 59519210000133 - CRF EMPREENDIMENTOS IMOBILIARIOS LTDA
+2026-01-04 23:47:35,493 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 15477840000117 (D P SILVA TRANSPORTES): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:47:55,218 - INFO - CND baixada com sucesso: 15477840000117 - D P SILVA TRANSPORTES
+2026-01-04 23:48:14,592 - INFO - CND baixada com sucesso: 62675540000122 - D. DIOGENES IMOBILIARIA LTDA
+2026-01-04 23:48:44,832 - INFO - CND baixada com sucesso: 43836764000124 - DAFRA PARTICIPACOES LTDA
+2026-01-04 23:49:17,500 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 20802735000146 (DANILO LOBO GUERRA 05681469301): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:49:51,835 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 20802735000146 (DANILO LOBO GUERRA 05681469301): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:50:27,771 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 20802735000146 (DANILO LOBO GUERRA 05681469301): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:51:04,922 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 20802735000146 (DANILO LOBO GUERRA 05681469301): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:51:46,828 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 20802735000146 (DANILO LOBO GUERRA 05681469301): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:52:02,924 - INFO - CND baixada com sucesso: 15544819000197 - DATALINK SOLUÇÕES LTDA
+2026-01-04 23:52:10,718 - INFO - CND baixada com sucesso: 58336271000100 - DAVID AUGUSTO SOLUCOES MEDICAS LTDA
+2026-01-04 23:52:22,341 - INFO - CND baixada com sucesso: 55423584000108 - DESBRAVE CONSULTORIA EM COMERCIO INTERNACIONAL LTDA
+2026-01-04 23:52:26,652 - INFO - CND baixada com sucesso: 37910839000177 - DIA - DIAGNOSTICOS INTEGRADOS DA AMERICA LTDA
+2026-01-04 23:52:36,170 - INFO - CND baixada com sucesso: 37910839000258 - DIA - DIAGNOSTICOS INTEGRADOS DA AMERICA LTDA
+2026-01-04 23:52:43,773 - INFO - CND baixada com sucesso: 41340172000353 - DIA MEDICINA AVANCADA LTDA
+2026-01-04 23:52:55,205 - INFO - CND baixada com sucesso: 41340172000434 - DIA MEDICINA AVANCADA LTDA
+2026-01-04 23:53:03,645 - INFO - CND baixada com sucesso: 41340172000191 - DIA MEDICINA AVANCADA LTDA
+2026-01-04 23:53:17,855 - INFO - CND baixada com sucesso: 41340172000272 - DIA MEDICINA AVANCADA LTDA
+2026-01-04 23:53:52,710 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 53696394000120 (DIGIBOSS MARKETING E TREINAMENTO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:54:08,436 - INFO - CND baixada com sucesso: 53696394000120 - DIGIBOSS MARKETING E TREINAMENTO LTDA
+2026-01-04 23:54:17,030 - INFO - CND baixada com sucesso: 44505116000158 - DOCTORFIT ACADEMIA E COMERCIO FORTALEZA LTDA
+2026-01-04 23:54:52,757 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 48793416000130 (DOCUPRIME SERVIÇOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:55:00,956 - INFO - CND baixada com sucesso: 48793416000130 - DOCUPRIME SERVIÇOS LTDA
+2026-01-04 23:55:14,972 - INFO - CND baixada com sucesso: 63597239000100 - DOMANDA JEANS LTDA
+2026-01-04 23:55:23,015 - INFO - CND baixada com sucesso: 30366164000106 - DUOLOC GESTAO DE FROTA LTDA
+2026-01-04 23:55:37,905 - INFO - CND baixada com sucesso: 29656777000190 - E A CONSULTORIA E ASSESSORIA EMPRESARIAL LTDA
+2026-01-04 23:56:10,431 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 08865913000182 (E.L.LIMA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:56:51,527 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 08865913000182 (E.L.LIMA LTDA): Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("label[for=\"cnpj\"]")
+    - locator resolved to <label for="cnpj" class="form-label">CNPJ (pessoas jurídicas)</label>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="page-loader-wrapper">…</div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-01-04 23:56:59,580 - INFO - CND baixada com sucesso: 08865913000182 - E.L.LIMA LTDA
+2026-01-04 23:57:08,005 - INFO - CND baixada com sucesso: 93001372000113 - EASYOFFICE LOCAÇÃO LTDA
+2026-01-04 23:57:19,051 - INFO - CND baixada com sucesso: 56102729000123 - ECEMIS - ESCOLA CEARENSE DE MEDICINA E INOVACAO EM SAUDE LTDA
+2026-01-04 23:57:21,089 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 37333644000101 (EDIFICA MATERIAIS PARA CONSTRUCAO LTDA): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-04 23:57:30,434 - INFO - CND baixada com sucesso: 37333644000101 - EDIFICA MATERIAIS PARA CONSTRUCAO LTDA
+2026-01-04 23:57:41,322 - INFO - CND baixada com sucesso: 37333644000373 - EDIFICA MATERIAIS PARA CONSTRUCAO LTDA
+2026-01-04 23:57:45,152 - INFO - CND baixada com sucesso: 37333644000292 - EDIFICA MATERIAIS PARA CONSTRUCAO LTDA
+2026-01-04 23:58:21,738 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 37333644000454 (EDIFICA MATERIAIS PARA CONSTRUCAO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-04 23:58:25,918 - INFO - CND baixada com sucesso: 37333644000454 - EDIFICA MATERIAIS PARA CONSTRUCAO LTDA
+2026-01-04 23:58:40,136 - INFO - CND baixada com sucesso: 09032353000148 - EDIFICIO CASA ROSA
+2026-01-04 23:58:50,041 - INFO - CND baixada com sucesso: 57010848000119 - EDITORA NACIONAL DE ENGENHARIA CIVIL LTDA
+2026-01-04 23:58:53,191 - INFO - CND baixada com sucesso: 59085120000181 - EDITORA NACIONAL DE PROJETOS E CONSTRUCAO LTDA
+2026-01-04 23:59:33,024 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 00036849375334 (EDNA MARIA CUNHA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:00:09,341 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 00036849375334 (EDNA MARIA CUNHA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:00:44,536 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 00036849375334 (EDNA MARIA CUNHA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:01:20,773 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 00036849375334 (EDNA MARIA CUNHA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:01:54,341 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 00036849375334 (EDNA MARIA CUNHA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:02:26,963 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 00038236451372 (EDUARDO MONTEIRO BARROS): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:02:29,586 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 00038236451372 (EDUARDO MONTEIRO BARROS): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-05 00:03:02,104 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 00038236451372 (EDUARDO MONTEIRO BARROS): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:03:38,642 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 00038236451372 (EDUARDO MONTEIRO BARROS): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:04:10,576 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 00038236451372 (EDUARDO MONTEIRO BARROS): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:04:14,807 - INFO - CND baixada com sucesso: 58583681000148 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 02 LTDA
+2026-01-05 00:04:22,798 - INFO - CND baixada com sucesso: 58583674000146 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 03 LTDA
+2026-01-05 00:05:01,489 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 58583670000168 (EDUCAINTER SERVICOS EDUCACIONAIS POLO 04 LTDA): Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("label[for=\"cnpj\"]")
+    - locator resolved to <label for="cnpj" class="form-label">CNPJ (pessoas jurídicas)</label>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="page-loader-wrapper">…</div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-01-05 00:05:10,995 - INFO - CND baixada com sucesso: 58583670000168 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 04 LTDA
+2026-01-05 00:05:23,548 - INFO - CND baixada com sucesso: 58583665000155 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 05 LTDA
+2026-01-05 00:05:36,424 - INFO - CND baixada com sucesso: 58583660000122 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 06 LTDA
+2026-01-05 00:05:44,647 - INFO - CND baixada com sucesso: 58583374000167 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 07 LTDA
+2026-01-05 00:06:09,687 - INFO - CND baixada com sucesso: 58583364000121 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 08 LTDA
+2026-01-05 00:06:25,447 - INFO - CND baixada com sucesso: 58583358000174 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 09 LTDA
+2026-01-05 00:06:47,936 - INFO - CND baixada com sucesso: 58583350000108 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 10 LTDA
+2026-01-05 00:06:59,789 - INFO - CND baixada com sucesso: 58583344000150 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 11 LTDA
+2026-01-05 00:07:06,384 - INFO - CND baixada com sucesso: 58583342000161 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 12 LTDA
+2026-01-05 00:07:24,442 - INFO - CND baixada com sucesso: 58587321000114 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 14 LTDA
+2026-01-05 00:07:29,441 - INFO - CND baixada com sucesso: 58587322000169 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 15 LTDA
+2026-01-05 00:07:35,500 - INFO - CND baixada com sucesso: 58587324000158 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 16 LTDA
+2026-01-05 00:07:49,974 - INFO - CND baixada com sucesso: 58587325000100 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 17 LTDA
+2026-01-05 00:07:59,092 - INFO - CND baixada com sucesso: 58587328000136 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 18 LTDA
+2026-01-05 00:08:02,431 - INFO - CND baixada com sucesso: 58582910000100 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 20 LTDA
+2026-01-05 00:08:40,727 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 58582865000193 (EDUCAINTER SERVICOS EDUCACIONAIS POLO 21 LTDA): Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("label[for=\"cnpj\"]")
+    - locator resolved to <label for="cnpj" class="form-label">CNPJ (pessoas jurídicas)</label>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="page-loader-wrapper">…</div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-01-05 00:08:54,060 - INFO - CND baixada com sucesso: 58582865000193 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 21 LTDA
+2026-01-05 00:09:21,961 - INFO - CND baixada com sucesso: 58582821000163 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 22 LTDA
+2026-01-05 00:09:47,732 - INFO - CND baixada com sucesso: 58582786000182 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 23 LTDA
+2026-01-05 00:10:01,596 - INFO - CND baixada com sucesso: 58582736000103 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 24 LTDA
+2026-01-05 00:10:13,617 - INFO - CND baixada com sucesso: 58582672000132 - EDUCAINTER SERVICOS EDUCACIONAIS POLO 25 LTDA
+2026-01-05 00:10:17,188 - INFO - CND baixada com sucesso: 59168911000175 - EFROM CONSTRUTORA E INCORPORADORA LTDA
+2026-01-05 00:10:56,432 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 00000244194351 (ELANNE LUCENA LIMA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:11:28,830 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 00000244194351 (ELANNE LUCENA LIMA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:12:05,307 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 00000244194351 (ELANNE LUCENA LIMA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:12:40,467 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 00000244194351 (ELANNE LUCENA LIMA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:12:44,143 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 00000244194351 (ELANNE LUCENA LIMA): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-05 00:12:52,989 - INFO - CND baixada com sucesso: 48871037000111 - ELEVEL ENGENHARIA LTDA
+2026-01-05 00:13:04,721 - INFO - CND baixada com sucesso: 62465168000120 - ELEVEL ENGENHARIA LTDA 3
+2026-01-05 00:13:11,429 - INFO - CND baixada com sucesso: 48871037000200 - ELEVEL ENGENHARIA LTDA RET
+2026-01-05 00:13:28,422 - INFO - CND baixada com sucesso: 58426714000146 - ELEVEL ENGENHARIA LTDA SCP
+2026-01-05 00:13:36,443 - INFO - CND baixada com sucesso: 61504046000132 - ELEVEL ENGENHARIA LTDA SCP 2
+2026-01-05 00:13:40,123 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 05812508000108 (EMPRAL EMPRESA COMERCIAL ALVES COMERCIO E SERVICOS LTDA): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-05 00:13:48,429 - INFO - CND baixada com sucesso: 05812508000108 - EMPRAL EMPRESA COMERCIAL ALVES COMERCIO E SERVICOS LTDA
+2026-01-05 00:13:54,382 - INFO - CND baixada com sucesso: 60639214000134 - EMPREENDIMENTO TURISTICO CUMBUCO ACQUA BEACH LTDA
+2026-01-05 00:14:16,547 - INFO - CND baixada com sucesso: 58471220000183 - EMPREENDIMENTO TURISTICO JHLV LTDA
+2026-01-05 00:14:48,693 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 25147771000137 (EMPREENDIMENTO TURISTICO LCML LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:14:57,000 - INFO - CND baixada com sucesso: 25147771000137 - EMPREENDIMENTO TURISTICO LCML LTDA
+2026-01-05 00:15:13,940 - INFO - CND baixada com sucesso: 96841580000119 - EMPRESA EXEMPLO LTDA
+2026-01-05 00:15:34,965 - INFO - CND baixada com sucesso: 42433012000150 - EMPROL ULIANI LTDA
+2026-01-05 00:16:11,541 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 11822137000148 (ESCOLA CRECHE SONHO DE TALITA SC LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:16:46,166 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 11822137000148 (ESCOLA CRECHE SONHO DE TALITA SC LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:17:07,627 - INFO - CND baixada com sucesso: 11822137000148 - ESCOLA CRECHE SONHO DE TALITA SC LTDA
+2026-01-05 00:17:46,503 - INFO - CND baixada com sucesso: 34372444000170 - ETICA ENGENHARIA EM ENERGIA SOLAR LTDA
+2026-01-05 00:17:50,706 - INFO - CND baixada com sucesso: 31987059000149 - EXITUS GESTAO EMPRESARIAL SPE S.A.
+2026-01-05 00:18:30,160 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 00005348180300 (Edouard Georges Carvalho Cachoux): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:19:06,994 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 00005348180300 (Edouard Georges Carvalho Cachoux): Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("label[for=\"cnpj\"]")
+    - locator resolved to <label for="cnpj" class="form-label">CNPJ (pessoas jurídicas)</label>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="page-loader-wrapper">…</div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-01-05 00:19:39,469 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 00005348180300 (Edouard Georges Carvalho Cachoux): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:20:11,500 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 00005348180300 (Edouard Georges Carvalho Cachoux): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:20:47,677 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 00005348180300 (Edouard Georges Carvalho Cachoux): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:20:56,403 - INFO - CND baixada com sucesso: 23256564000195 - F COMERCIO VETERINARIO LTDA
+2026-01-05 00:21:04,899 - INFO - CND baixada com sucesso: 28787353000100 - F MACHADO CONSTRUCOES E INCORPORACOES LTDA
+2026-01-05 00:21:14,298 - INFO - CND baixada com sucesso: 27251675000160 - F P AIRES
+2026-01-05 00:21:46,874 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 64009747000193 (F SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:21:55,932 - INFO - CND baixada com sucesso: 64009747000193 - F SERVICOS LTDA
+2026-01-05 00:22:28,416 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 63462389000107 (F. DOS SANTOS PESSOA E CIA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:23:01,421 - INFO - CND baixada com sucesso: 63462389000107 - F. DOS SANTOS PESSOA E CIA LTDA
+2026-01-05 00:23:11,458 - INFO - CND baixada com sucesso: 72536626000128 - F.A.R. SERVICOS LTDA
+2026-01-05 00:23:15,093 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 57862719000159 (F.S. ENERGIA SOLAR LTDA): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-05 00:23:25,996 - INFO - CND baixada com sucesso: 57862719000159 - F.S. ENERGIA SOLAR LTDA
+2026-01-05 00:23:33,930 - INFO - CND baixada com sucesso: 07344211000190 - FACIC - FEDERACAO DAS ASSOCIACOES DO COMERCIO, INDUSTRIA, SERVICOS E AGROPECUARIA DO CEARA
+2026-01-05 00:23:51,582 - INFO - CND baixada com sucesso: 54134139000157 - FACUNDO AMORIM LTDA
+2026-01-05 00:24:03,292 - INFO - CND baixada com sucesso: 03501797000107 - FAJECE - FEDERACAO DAS ASSOCIACOES DOS JOVENS EMPRESARIOS DO ESTADO DO CEARA
+2026-01-05 00:24:13,048 - INFO - CND baixada com sucesso: 55710168000182 - FARHAT EVENTOS LTDA
+2026-01-05 00:24:25,856 - INFO - CND baixada com sucesso: 60528958000181 - FAZENDA MENINO JESUS AGROPECUARIA LTDA
+2026-01-05 00:25:00,251 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 35640214000107 (FBS SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:25:32,229 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 35640214000107 (FBS SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:26:05,644 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 35640214000107 (FBS SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:26:38,008 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 35640214000107 (FBS SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:27:12,336 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 35640214000107 (FBS SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:27:24,286 - INFO - CND baixada com sucesso: 52846373000181 - FDA PARTICIPACOES LTDA
+2026-01-05 00:27:26,594 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 56883990000108 (FENELON RIBEIRO CORRETORA DE SEGUROS LTDA): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-05 00:27:35,369 - INFO - CND baixada com sucesso: 56883990000108 - FENELON RIBEIRO CORRETORA DE SEGUROS LTDA
+2026-01-05 00:28:12,972 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 16552800000155 (FERRARA SERVICOS DE CONSTRUCOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:28:20,415 - INFO - CND baixada com sucesso: 16552800000155 - FERRARA SERVICOS DE CONSTRUCOES LTDA
+2026-01-05 00:28:30,511 - INFO - CND baixada com sucesso: 63654465000186 - FF SOUSA CHURRASCARIA E PIZZARIA LTDA
+2026-01-05 00:28:38,855 - INFO - CND baixada com sucesso: 57627587000180 - FFC SERVICOS ADMINISTRATIVOS LTDA
+2026-01-05 00:28:49,143 - INFO - CND baixada com sucesso: 17867104000109 - FG CONSTRUCOES E INCORPORACOES LTDA
+2026-01-05 00:29:28,889 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 54540689000176 (FORTITUDINE ENERGIA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:29:40,486 - INFO - CND baixada com sucesso: 54540689000176 - FORTITUDINE ENERGIA LTDA
+2026-01-05 00:29:51,466 - INFO - CND baixada com sucesso: 35683714000126 - FORTSANEAR CONSTRUCOES E SANEAMENTO AMBIENTAL LTDA
+2026-01-05 00:30:03,271 - INFO - CND baixada com sucesso: 02246648000178 - FPA NEGOCIOS E CONSULTORIA LTDA
+2026-01-05 00:30:07,486 - INFO - CND baixada com sucesso: 40130988000128 - FRADIQUE VENTURA SOCIEDADE INDIVIDUAL DE ADVOCACIA
+2026-01-05 00:30:17,307 - INFO - CND baixada com sucesso: 08537424000100 - FRAN ASSESSORIA EM GESTAO EMPRESARIAL LTDA
+2026-01-05 00:30:30,581 - INFO - CND baixada com sucesso: 25530118000152 - FRANCA CONSTRUCOES E INCORPORACOES LTDA
+2026-01-05 00:30:34,176 - INFO - CND baixada com sucesso: 25530118000748 - FRANCA CONSTRUCOES E INCORPORACOES LTDA
+2026-01-05 00:30:46,736 - INFO - CND baixada com sucesso: 25530118000667 - FRANCA CONSTRUCOES E INCORPORACOES LTDA
+2026-01-05 00:31:19,280 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 55596268000120 (FRANCA CONSTRUCOES E INCORPORACOES LTDA SCP): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:31:26,676 - INFO - CND baixada com sucesso: 55596268000120 - FRANCA CONSTRUCOES E INCORPORACOES LTDA SCP
+2026-01-05 00:32:00,234 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 00005958695304 (FRANCISCO DE ASSIS COSTA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:32:36,368 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 00005958695304 (FRANCISCO DE ASSIS COSTA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:33:08,296 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 00005958695304 (FRANCISCO DE ASSIS COSTA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:33:40,946 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 00005958695304 (FRANCISCO DE ASSIS COSTA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:34:18,777 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 00005958695304 (FRANCISCO DE ASSIS COSTA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:34:53,167 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 00074394738334 (FRANCISCO DE ASSIS CUNHA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:35:25,333 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 00074394738334 (FRANCISCO DE ASSIS CUNHA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:35:57,783 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 00074394738334 (FRANCISCO DE ASSIS CUNHA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:36:34,249 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 00074394738334 (FRANCISCO DE ASSIS CUNHA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:37:13,303 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 00074394738334 (FRANCISCO DE ASSIS CUNHA CAVALCANTE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:37:20,437 - INFO - CND baixada com sucesso: 04768631000106 - FRANCISCO DE ASSIS CUNHA CAVALCANTE EIRELI
+2026-01-05 00:37:30,914 - INFO - CND baixada com sucesso: 41231474000121 - FRANCISCO JUSCIER DOS SANTOS 47758562353
+2026-01-05 00:37:34,618 - INFO - CND baixada com sucesso: 34188209000142 - FRANCISCO MAURICIO CAVALCANTE GAMA FILHO
+2026-01-05 00:37:45,193 - INFO - CND baixada com sucesso: 59466446000159 - FRANUTO ALIMENTOS LTDA
+2026-01-05 00:37:58,055 - INFO - CND baixada com sucesso: 59443321000103 - FRANUTO COMERCIO DE ALIMENTOS LTDA
+2026-01-05 00:38:05,951 - INFO - CND baixada com sucesso: 59443321000294 - FRANUTO COMERCIO DE ALIMENTOS LTDA
+2026-01-05 00:38:44,959 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 59420186000180 (FRANUTO COMERCIO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:38:56,844 - INFO - CND baixada com sucesso: 59420186000180 - FRANUTO COMERCIO LTDA
+2026-01-05 00:39:03,920 - INFO - CND baixada com sucesso: 59506747000169 - FRANUTO RESTAURANTE LTDA
+2026-01-05 00:39:13,296 - INFO - CND baixada com sucesso: 52694054000106 - FRAPAR PARTICIPACOES LTDA
+2026-01-05 00:39:47,966 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 50637128000139 (FUJI CAMBEBA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:40:21,329 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 50637128000139 (FUJI CAMBEBA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:40:59,317 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 50637128000139 (FUJI CAMBEBA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:41:35,202 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 50637128000139 (FUJI CAMBEBA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:42:10,801 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 50637128000139 (FUJI CAMBEBA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:42:43,235 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 72570740000174 (FUJITA ENGENHARIA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:43:20,865 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 72570740000174 (FUJITA ENGENHARIA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:43:58,787 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 72570740000174 (FUJITA ENGENHARIA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:44:35,943 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 72570740000174 (FUJITA ENGENHARIA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:45:08,284 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 72570740000174 (FUJITA ENGENHARIA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:45:20,848 - INFO - CND baixada com sucesso: 23798278000151 - FUN FOR PET LTDA
+2026-01-05 00:46:01,086 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 54560913000191 (FUTURX COMERCIO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:46:12,149 - INFO - CND baixada com sucesso: 54560913000191 - FUTURX COMERCIO LTDA
+2026-01-05 00:46:20,638 - INFO - CND baixada com sucesso: 05534749000132 - G SOUSA DE OLIVEIRA LTDA
+2026-01-05 00:46:24,424 - INFO - CND baixada com sucesso: 60398756000162 - G. F. SERVICOS LTDA
+2026-01-05 00:46:36,764 - INFO - CND baixada com sucesso: 60750286000154 - G. SOLAR I LTDA
+2026-01-05 00:47:09,280 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 57407275000161 (G.R. SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:47:15,828 - INFO - CND baixada com sucesso: 57407275000161 - G.R. SERVICOS LTDA
+2026-01-05 00:47:24,578 - INFO - CND baixada com sucesso: 44775045000103 - GBLOC LOCACAO DE EQUIPAMENTOS PARA EVENTOS LTDA
+2026-01-05 00:47:30,977 - INFO - CND baixada com sucesso: 07895142000103 - GE FRIO COMERC E SERV DE MAQ E APARELHOS ELETRICOS LTDA ME
+2026-01-05 00:48:10,085 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 43054953000145 (GENIAL GESTAO DE CONDOMINIOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:48:21,643 - INFO - CND baixada com sucesso: 43054953000145 - GENIAL GESTAO DE CONDOMINIOS LTDA
+2026-01-05 00:48:37,534 - INFO - CND baixada com sucesso: 12453346000124 - GENIAL TERCEIRIZACAO DE MAO DE OBRA LTDA
+2026-01-05 00:49:14,590 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 00065975642353 (GERMANA MOTA (DOMÉSTICA)): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:49:47,075 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 00065975642353 (GERMANA MOTA (DOMÉSTICA)): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:50:26,146 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 00065975642353 (GERMANA MOTA (DOMÉSTICA)): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:50:58,742 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 00065975642353 (GERMANA MOTA (DOMÉSTICA)): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:51:36,269 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 00065975642353 (GERMANA MOTA (DOMÉSTICA)): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:51:40,521 - INFO - CND baixada com sucesso: 63911954000176 - GESTAO & TECNOLOGIA LTDA
+2026-01-05 00:51:50,458 - INFO - CND baixada com sucesso: 25173111000120 - GF MARMORES E GRANITOS LTDA
+2026-01-05 00:52:26,709 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 14166212000158 (GG COMERCIO DE PECAS AUTOMOTIVAS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:52:36,171 - INFO - CND baixada com sucesso: 14166212000158 - GG COMERCIO DE PECAS AUTOMOTIVAS LTDA
+2026-01-05 00:52:48,362 - INFO - CND baixada com sucesso: 27505170000184 - GHIA CARGO LOGISTICA LTDA
+2026-01-05 00:53:03,431 - INFO - CND baixada com sucesso: 05587625000115 - GOLDEN BEACH HOTEL LTDA
+2026-01-05 00:53:15,254 - INFO - CND baixada com sucesso: 62960623000163 - GOLFINE TECNOLOGIA LTDA
+2026-01-05 00:53:26,344 - INFO - CND baixada com sucesso: 59123600000190 - GP SOLUTIONS LTDA
+2026-01-05 00:53:40,163 - INFO - CND baixada com sucesso: 59527498000198 - GRA SERVICOS LTDA
+2026-01-05 00:53:47,812 - INFO - CND baixada com sucesso: 37846440000174 - GRMM INCORPORACOES LTDA
+2026-01-05 00:53:56,162 - INFO - CND baixada com sucesso: 48410501000172 - GUDS - COMERCIO E IMPORTACAO DE PRODUTOS GERAIS LTDA
+2026-01-05 00:54:28,752 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 00000000000000 (Grupo Visão - Diretora Edna): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:55:04,770 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 00000000000000 (Grupo Visão - Diretora Edna): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:55:44,247 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 00000000000000 (Grupo Visão - Diretora Edna): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:56:18,871 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 00000000000000 (Grupo Visão - Diretora Edna): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:56:51,391 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 00000000000000 (Grupo Visão - Diretora Edna): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:56:55,508 - INFO - CND baixada com sucesso: 32174777000169 - H E DE MENEZES ENGENHARIA LTDA
+2026-01-05 00:57:07,949 - INFO - CND baixada com sucesso: 55416704000131 - H E DE MENEZES MONTAGENS E MANUTENCOES LTDA
+2026-01-05 00:57:12,594 - INFO - CND baixada com sucesso: 63933547000160 - HABITA EMPREENDIMENTOS IMOBILIARIOS LTDA
+2026-01-05 00:57:51,436 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 31986882000130 (HADIAH CONSULTORIA EMPRESARIAL S.A.): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:58:23,966 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 31986882000130 (HADIAH CONSULTORIA EMPRESARIAL S.A.): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:58:58,937 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 31986882000130 (HADIAH CONSULTORIA EMPRESARIAL S.A.): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 00:59:31,577 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 31986882000130 (HADIAH CONSULTORIA EMPRESARIAL S.A.): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:00:06,288 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 31986882000130 (HADIAH CONSULTORIA EMPRESARIAL S.A.): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:00:46,684 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 28625286000110 (HAROLDO GOMES DE MELO 26634252300): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:01:23,677 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 28625286000110 (HAROLDO GOMES DE MELO 26634252300): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:01:59,823 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 28625286000110 (HAROLDO GOMES DE MELO 26634252300): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:02:32,260 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 28625286000110 (HAROLDO GOMES DE MELO 26634252300): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:02:59,497 - INFO - CND baixada com sucesso: 28625286000110 - HAROLDO GOMES DE MELO 26634252300
+2026-01-05 01:03:07,909 - INFO - CND baixada com sucesso: 50264999000154 - HEY JOE APOIO LTDA
+2026-01-05 01:03:16,874 - INFO - CND baixada com sucesso: 22450286000140 - HEY JOE COMERCIO DE LANCHES LTDA
+2026-01-05 01:03:49,411 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 22450286000220 (HEY JOE COMERCIO DE LANCHES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:03:53,647 - INFO - CND baixada com sucesso: 22450286000220 - HEY JOE COMERCIO DE LANCHES LTDA
+2026-01-05 01:04:07,424 - INFO - CND baixada com sucesso: 58564729000170 - HF SERVICOS MEDICOS LTDA
+2026-01-05 01:04:18,272 - INFO - CND baixada com sucesso: 61816630000123 - HGVM HOSPITAL GERAL VETERINARIO DE MARACANAU LTDA
+2026-01-05 01:04:25,383 - INFO - CND baixada com sucesso: 62809800000105 - HGVM PET LTDA
+2026-01-05 01:05:00,498 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 41667096000123 (HJ SERVIÇOS DE APOIO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:05:12,758 - INFO - CND baixada com sucesso: 41667096000123 - HJ SERVIÇOS DE APOIO LTDA
+2026-01-05 01:05:20,001 - INFO - CND baixada com sucesso: 59889569000100 - HOSPITAL GERAL VETERINARIO DE MARACANAU LTDA
+2026-01-05 01:05:31,195 - INFO - CND baixada com sucesso: 55986815000183 - HOTEL FRANCISCO LISBOA LTDA
+2026-01-05 01:05:39,350 - INFO - CND baixada com sucesso: 22828063000173 - HUBER HOTEL E SERVIÇOS LTDA ME
+2026-01-05 01:05:53,448 - INFO - CND baixada com sucesso: 57388632000191 - HZ HOLDING E ADMINISTRACAO DE BENS LTDA
+2026-01-05 01:05:57,219 - INFO - CND baixada com sucesso: 58586667000106 - I.A. SERVICOS DE LOCACAO E TRANSPORTE LTDA
+2026-01-05 01:06:07,103 - INFO - CND baixada com sucesso: 52708785000155 - I.M. SERVICOS DE MANUTENCAO E REPARACAO LTDA
+2026-01-05 01:06:11,265 - INFO - CND baixada com sucesso: 33505734000181 - ISABELLA SALDANHA FACANHA 04334713360
+2026-01-05 01:06:19,920 - INFO - CND baixada com sucesso: 63936875000110 - IASMIN SALDANHA FACANHA LTDA
+2026-01-05 01:06:42,601 - INFO - CND baixada com sucesso: 21687053000100 - IDEIA PUBLICIDADE E MARKETING LTDA
+2026-01-05 01:06:51,156 - INFO - CND baixada com sucesso: 14606521000100 - IDEIAS CRIATIVAS COMUNICACAO E MARKETING LTDA
+2026-01-05 01:07:02,825 - INFO - CND baixada com sucesso: 28321681000109 - IGOR SOUZA RIBEIRO
+2026-01-05 01:07:10,981 - INFO - CND baixada com sucesso: 47895790000184 - IL GALLO GARIBALDI IMPORTACAO & EXPORTACAO DE ALIMENTOS LTDA
+2026-01-05 01:07:22,097 - INFO - CND baixada com sucesso: 41773736000180 - IMOBILIARIA DIOGENES LTDA
+2026-01-05 01:07:33,330 - INFO - CND baixada com sucesso: 08967124000152 - IMPORTADORA E COMERCIAL DE OCULOS SANTA RITA LTDA
+2026-01-05 01:08:07,637 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 00056744927353 (INDALECIO NEY MAIA SALES): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:08:44,085 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 00056744927353 (INDALECIO NEY MAIA SALES): Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("label[for=\"cnpj\"]")
+    - locator resolved to <label for="cnpj" class="form-label">CNPJ (pessoas jurídicas)</label>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="page-loader-wrapper">…</div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-01-05 01:09:19,228 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 00056744927353 (INDALECIO NEY MAIA SALES): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:09:51,725 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 00056744927353 (INDALECIO NEY MAIA SALES): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:10:31,397 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 00056744927353 (INDALECIO NEY MAIA SALES): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:10:35,873 - INFO - CND baixada com sucesso: 22371237000111 - INOVA CIVIL PLATAFORMA EDUCACIONAL LTDA
+2026-01-05 01:10:51,578 - INFO - CND baixada com sucesso: 27731556000104 - INOVATI CONSULTORIA LTDA
+2026-01-05 01:10:57,650 - INFO - CND baixada com sucesso: 51621281000130 - INSTITUTO BRASILEIRO DE ENGENHARIA ESTRUTURAL LTDA
+2026-01-05 01:11:06,292 - INFO - CND baixada com sucesso: 19970233000145 - INSTITUTO CEARENSE DE APRIMORAMENTO DO VAREJO
+2026-01-05 01:11:38,223 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 49211458000189 (INSTITUTO FAVELAR): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:12:07,580 - INFO - CND baixada com sucesso: 49211458000189 - INSTITUTO FAVELAR
+2026-01-05 01:12:15,305 - INFO - CND baixada com sucesso: 42297720000100 - INSTITUTO NEXUS
+2026-01-05 01:12:28,424 - INFO - CND baixada com sucesso: 07510103000140 - INSTITUTO RELUZ DE DESENVOLVIMENTO HUMANO
+2026-01-05 01:13:00,871 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 46263781000108 (INTENSIVO SERVICOS VETERINARIOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:13:10,022 - INFO - CND baixada com sucesso: 46263781000108 - INTENSIVO SERVICOS VETERINARIOS LTDA
+2026-01-05 01:13:18,478 - INFO - CND baixada com sucesso: 42650588000179 - IPMATE INSTITUTO DE PESQUISAS EM MATERIAIS DE CONSTRUCAO CIVIL E ESTRUTURAS E PRODUTOS LTDA
+2026-01-05 01:13:22,749 - INFO - CND baixada com sucesso: 07328032000160 - IRAJA COMERCIO DE MATERIAL DE CONSTRUCAO LTDA
+2026-01-05 01:13:34,965 - INFO - CND baixada com sucesso: 53326830000170 - ISAIAS FREITAS DA SILVA LTDA
+2026-01-05 01:13:43,440 - INFO - CND baixada com sucesso: 12407910000172 - J L RODRIGUES TRANSPORTE LTDA
+2026-01-05 01:13:52,025 - INFO - CND baixada com sucesso: 16939453000118 - J NOGUEIRA LIMA REPRESENTACOES LTDA
+2026-01-05 01:13:56,696 - INFO - CND baixada com sucesso: 64085610000118 - J. LUCAS SOTERO RODRIGUES E CIA LTDA
+2026-01-05 01:14:34,613 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 21269207000136 (JANNE YSLANE DA SILVA SIMOES): Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("label[for=\"cnpj\"]")
+    - locator resolved to <label for="cnpj" class="form-label">CNPJ (pessoas jurídicas)</label>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="page-loader-wrapper">…</div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-01-05 01:14:38,806 - INFO - CND baixada com sucesso: 21269207000136 - JANNE YSLANE DA SILVA SIMOES
+2026-01-05 01:15:21,214 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 57606610000150 (JCA SERVICOS, TURISMO E EVENTOS LTDA): Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("label[for=\"cnpj\"]")
+    - locator resolved to <label for="cnpj" class="form-label">CNPJ (pessoas jurídicas)</label>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="page-loader-wrapper">…</div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-01-05 01:15:28,829 - INFO - CND baixada com sucesso: 57606610000150 - JCA SERVICOS, TURISMO E EVENTOS LTDA
+2026-01-05 01:15:35,717 - INFO - CND baixada com sucesso: 58661459000116 - JFO CONSULTORIA E SERVICOS TECNICOS AMBIENTAIS LTDA
+2026-01-05 01:16:13,130 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 04653611000190 (JL NUNES PANIFICADORA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:16:49,167 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 04653611000190 (JL NUNES PANIFICADORA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:17:24,297 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 04653611000190 (JL NUNES PANIFICADORA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:17:56,739 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 04653611000190 (JL NUNES PANIFICADORA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:18:33,765 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 04653611000190 (JL NUNES PANIFICADORA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:19:12,407 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 26722357000177 (JMG SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:19:53,415 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 26722357000177 (JMG SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:20:25,912 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 26722357000177 (JMG SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:21:02,619 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 26722357000177 (JMG SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:21:41,352 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 26722357000177 (JMG SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:21:53,937 - INFO - CND baixada com sucesso: 63678109000100 - JN ENGENHARIA E CONSULTORIA LTDA
+2026-01-05 01:21:57,372 - INFO - CND baixada com sucesso: 45435239000122 - JOAQUIM PEREIRA PINTO FILHO LTDA
+2026-01-05 01:22:01,023 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 32699425000127 (JONES DE SOUSA LEITE LTDA): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-05 01:22:09,462 - INFO - CND baixada com sucesso: 32699425000127 - JONES DE SOUSA LEITE LTDA
+2026-01-05 01:22:17,429 - INFO - CND baixada com sucesso: 25069021000194 - JOSE ARAUJO DE SOUSA
+2026-01-05 01:22:52,774 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 15185095000132 (JOSE NOGUEIRA LIMA NETO ME): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:23:25,533 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 15185095000132 (JOSE NOGUEIRA LIMA NETO ME): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:24:02,197 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 15185095000132 (JOSE NOGUEIRA LIMA NETO ME): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:24:34,817 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 15185095000132 (JOSE NOGUEIRA LIMA NETO ME): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:25:11,150 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 15185095000132 (JOSE NOGUEIRA LIMA NETO ME): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:25:50,969 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 00000350883386 (JOSIAS MACHADO CARNEIRO JUNIOR): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:26:12,079 - INFO - CND baixada com sucesso: 00000350883386 - JOSIAS MACHADO CARNEIRO JUNIOR
+2026-01-05 01:26:23,725 - INFO - CND baixada com sucesso: 59303055000113 - JULY HOLDING LTDA
+2026-01-05 01:26:59,356 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 55747627000100 (JV CONSTRUCAO E INCORPORACAO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:27:10,321 - INFO - CND baixada com sucesso: 55747627000100 - JV CONSTRUCAO E INCORPORACAO LTDA
+2026-01-05 01:27:14,457 - INFO - CND baixada com sucesso: 51179465000192 - K&D SERVICOS DE APOIO LTDA
+2026-01-05 01:27:24,361 - INFO - CND baixada com sucesso: 63739485000150 - KALANDULA CAPITAL LTDA
+2026-01-05 01:28:00,982 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 32198575000157 (KALL CONSTRUCOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:28:41,595 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 32198575000157 (KALL CONSTRUCOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:29:13,999 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 32198575000157 (KALL CONSTRUCOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:29:49,415 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 32198575000157 (KALL CONSTRUCOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:30:08,610 - INFO - CND baixada com sucesso: 32198575000157 - KALL CONSTRUCOES LTDA
+2026-01-05 01:30:41,272 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 24475838000108 (KAVA TECH CONSULTORIA E TREINAMENTO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:30:49,581 - INFO - CND baixada com sucesso: 24475838000108 - KAVA TECH CONSULTORIA E TREINAMENTO LTDA
+2026-01-05 01:30:58,509 - INFO - CND baixada com sucesso: 58582478000157 - KRONOS INCORPORACOES LTDA
+2026-01-05 01:31:04,574 - INFO - CND baixada com sucesso: 36124079000100 - KRONOS INTERNACIONAL LTDA
+2026-01-05 01:31:08,097 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 21687568000100 (L. O. K. AGENCIAMENTO LTDA): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-05 01:31:19,588 - INFO - CND baixada com sucesso: 21687568000100 - L. O. K. AGENCIAMENTO LTDA
+2026-01-05 01:31:52,101 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 07576334000157 (LABORATORIO DE ANALISES DE CONCRETOS E ASFALTO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:32:27,447 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 07576334000157 (LABORATORIO DE ANALISES DE CONCRETOS E ASFALTO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:33:00,000 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 07576334000157 (LABORATORIO DE ANALISES DE CONCRETOS E ASFALTO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:33:32,519 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 07576334000157 (LABORATORIO DE ANALISES DE CONCRETOS E ASFALTO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:34:14,154 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 07576334000157 (LABORATORIO DE ANALISES DE CONCRETOS E ASFALTO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:34:32,448 - INFO - CND baixada com sucesso: 63111210000177 - LAZIZ SERVICOS DE ALIMENTOS LTDA
+2026-01-05 01:34:47,755 - INFO - CND baixada com sucesso: 30183408000107 - LE PROJET SERVICOS DE ENGENHARIA LTDA
+2026-01-05 01:35:08,281 - INFO - CND baixada com sucesso: 46131227000177 - LESSENCE ATELIE ALUGUEL DE TRAJES DE FESTA LTDA
+2026-01-05 01:35:16,627 - INFO - CND baixada com sucesso: 59838922000115 - LETICIA DINIZ PSICOLOGIA E SAUDE MENTAL LTDA
+2026-01-05 01:35:20,793 - INFO - CND baixada com sucesso: 11718764000133 - LF SERVICO E COMERCIO DE ROUPAS LTDA
+2026-01-05 01:35:39,944 - INFO - CND baixada com sucesso: 11718764000303 - LF SERVICO E COMERCIO DE ROUPAS LTDA
+2026-01-05 01:35:49,204 - INFO - CND baixada com sucesso: 11718764000486 - LF SERVICO E COMERCIO DE ROUPAS LTDA
+2026-01-05 01:35:58,944 - INFO - CND baixada com sucesso: 04663998000165 - LIDAR LOCADORA DE MOVEIS E IMOVEIS LTDA
+2026-01-05 01:36:10,787 - INFO - CND baixada com sucesso: 33723853000100 - LIMPEX PRESTAÇÃO DE SERVICOS GERAIS LTDA
+2026-01-05 01:36:18,053 - INFO - CND baixada com sucesso: 46454139000106 - LINHAS & FORMAS SERVICO E COMERCIO DE ROUPAS LTDA
+2026-01-05 01:36:54,706 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 09539054000102 (LIOMAR ALVES DE LIMA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:37:30,240 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 09539054000102 (LIOMAR ALVES DE LIMA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:38:02,650 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 09539054000102 (LIOMAR ALVES DE LIMA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:38:34,710 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 09539054000102 (LIOMAR ALVES DE LIMA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:39:07,161 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 09539054000102 (LIOMAR ALVES DE LIMA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:39:39,681 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 09539054000285 (LIOMAR ALVES DE LIMA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:40:14,129 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 09539054000285 (LIOMAR ALVES DE LIMA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:40:53,543 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 09539054000285 (LIOMAR ALVES DE LIMA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:41:29,736 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 09539054000285 (LIOMAR ALVES DE LIMA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:42:02,172 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 09539054000285 (LIOMAR ALVES DE LIMA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:42:38,118 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 09539054000366 (LIOMAR ALVES DE LIMA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:43:12,870 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 09539054000366 (LIOMAR ALVES DE LIMA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:43:44,710 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 09539054000366 (LIOMAR ALVES DE LIMA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:44:17,144 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 09539054000366 (LIOMAR ALVES DE LIMA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:44:49,590 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 09539054000366 (LIOMAR ALVES DE LIMA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:45:31,670 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 53688398000167 (LM GUINDASTES LOCACOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:45:38,040 - INFO - CND baixada com sucesso: 53688398000167 - LM GUINDASTES LOCACOES LTDA
+2026-01-05 01:45:41,628 - INFO - CND baixada com sucesso: 14281330000107 - LM TERCEIRIZACAO DE SERVICOS LTDA
+2026-01-05 01:45:43,812 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 53672980000135 (LOCFAST LTDA): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-05 01:45:51,426 - INFO - CND baixada com sucesso: 53672980000135 - LOCFAST LTDA
+2026-01-05 01:45:58,227 - INFO - CND baixada com sucesso: 44546723000166 - LOCKCERT DIGITAL LTDA
+2026-01-05 01:46:09,761 - INFO - CND baixada com sucesso: 73413999000174 - LOJAO DOS PARAFUSOS CEARA LTDA
+2026-01-05 01:46:12,089 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 73413999000255 (LOJAO DOS PARAFUSOS CEARA LTDA): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-05 01:46:21,377 - INFO - CND baixada com sucesso: 73413999000255 - LOJAO DOS PARAFUSOS CEARA LTDA
+2026-01-05 01:46:36,922 - INFO - CND baixada com sucesso: 73413999000336 - LOJAO DOS PARAFUSOS CEARA LTDA
+2026-01-05 01:46:50,057 - INFO - CND baixada com sucesso: 27302535000173 - LOJAO GERENCIAL
+2026-01-05 01:46:53,792 - INFO - CND baixada com sucesso: 27302535000254 - LOJAO GERENCIAL 2
+2026-01-05 01:47:30,157 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 09367876000226 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUCAO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:48:04,618 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 09367876000226 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUCAO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:48:45,120 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 09367876000226 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUCAO LTDA): Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary")
+    - locator resolved to <button type="button" id="postButton" onclick="enviarGet()" class="btn btn-outline-secondary">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div id="loadingOverlay" class="loading-overlay">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div id="loadingOverlay" class="loading-overlay">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    - waiting for element to be visible, enabled and stable
+  - element was detached from the DOM, retrying
+
+2026-01-05 01:48:46,257 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 09367876000226 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUCAO LTDA): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-05 01:49:27,352 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 09367876000226 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUCAO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:49:59,770 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 09367876000307 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUCAO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:50:35,244 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 09367876000307 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUCAO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:51:07,342 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 09367876000307 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUCAO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:51:42,870 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 09367876000307 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUCAO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:52:23,711 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 09367876000307 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUCAO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:53:00,904 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 09367876000498 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUCAO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:53:35,868 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 09367876000498 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUCAO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:54:08,328 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 09367876000498 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUCAO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:54:44,191 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 09367876000498 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUCAO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:55:19,013 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 09367876000498 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUCAO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:55:51,596 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 09367876000145 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUÇÃO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:56:24,109 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 09367876000145 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUÇÃO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:57:01,125 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 09367876000145 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUÇÃO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:57:34,843 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 09367876000145 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUÇÃO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:58:10,194 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 09367876000145 (LOJAS ALVES COMERCIO DE MATERIAL DE CONSTRUÇÃO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 01:58:17,532 - INFO - CND baixada com sucesso: 27302535000335 - LOJÃO GERENCIAL 3
+2026-01-05 01:58:42,461 - INFO - CND baixada com sucesso: 53695762000116 - LPX HOLDDING E PARTICIPACOES LTDA
+2026-01-05 01:59:03,123 - INFO - CND baixada com sucesso: 61845966000114 - LRM HOLDING PARTICIPACOES LTDA
+2026-01-05 01:59:04,315 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 63721562000144 (LUX SERVICOS LTDA): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-05 01:59:43,705 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 63721562000144 (LUX SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:00:18,173 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 63721562000144 (LUX SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:00:51,840 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 63721562000144 (LUX SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:01:25,433 - INFO - CND baixada com sucesso: 63721562000144 - LUX SERVICOS LTDA
+2026-01-05 02:01:37,607 - INFO - CND baixada com sucesso: 59377063000104 - LUZ DO MUNDO ENERGIA VIVA LTDA
+2026-01-05 02:01:51,200 - INFO - CND baixada com sucesso: 39466204000158 - LVP SERVICOS ADMINISTRATIVOS LTDA
+2026-01-05 02:01:58,230 - INFO - CND baixada com sucesso: 29106007000174 - LYRIKO COMERCIO DE COSMETICOS E PRODUTOS NATURAIS LTDA
+2026-01-05 02:02:06,347 - INFO - CND baixada com sucesso: 04597128000135 - M & A COMERCIO DE MATERIAIS DE CONTRUCAO LTDA
+2026-01-05 02:02:30,114 - INFO - CND baixada com sucesso: 04597128000216 - M & A COMERCIO DE MATERIAIS DE CONTRUCAO LTDA
+2026-01-05 02:02:35,679 - INFO - CND baixada com sucesso: 54670522000120 - M & M GESTAO E NEGOCIOS LTDA
+2026-01-05 02:02:44,765 - INFO - CND baixada com sucesso: 15436362000105 - M H LUCENA S LTDA
+2026-01-05 02:03:20,394 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 57416989000136 (M H SERVICOS DE MANUTENCAO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:03:46,718 - INFO - CND baixada com sucesso: 57416989000136 - M H SERVICOS DE MANUTENCAO LTDA
+2026-01-05 02:04:19,046 - INFO - CND baixada com sucesso: 53326792000155 - M.K. SERVICOS LTDA
+2026-01-05 02:04:59,188 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 25284634000144 (M.S. SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:05:24,944 - INFO - CND baixada com sucesso: 25284634000144 - M.S. SERVICOS LTDA
+2026-01-05 02:05:55,231 - INFO - CND baixada com sucesso: 05641255000157 - MACC CONSULTORIA E TREINAMENTO LTDA
+2026-01-05 02:06:03,036 - INFO - CND baixada com sucesso: 41491217000129 - MAELI RODRIGUES DE OLIVEIRA 96959690382
+2026-01-05 02:06:06,084 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 10908065000193 (MAGE REPRESENTACOES LTDA): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-05 02:06:12,242 - INFO - CND baixada com sucesso: 10908065000193 - MAGE REPRESENTACOES LTDA
+2026-01-05 02:06:44,637 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 58592993000118 (MAGNAR SOLUCOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:07:17,095 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 58592993000118 (MAGNAR SOLUCOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:07:50,634 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 58592993000118 (MAGNAR SOLUCOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:08:27,322 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 58592993000118 (MAGNAR SOLUCOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:08:43,873 - INFO - CND baixada com sucesso: 58592993000118 - MAGNAR SOLUCOES LTDA
+2026-01-05 02:08:57,903 - INFO - CND baixada com sucesso: 55172404000154 - MAIA ARAUJO ADVOCACIA
+2026-01-05 02:09:02,222 - INFO - CND baixada com sucesso: 49002244000100 - MAIS SABER SOLUCOES TECNOLOGICAS LTDA
+2026-01-05 02:09:15,023 - INFO - CND baixada com sucesso: 60489066000119 - MARIA RAFAELA ABREU MACIEL LTDA
+2026-01-05 02:09:18,762 - INFO - CND baixada com sucesso: 49290731000108 - MARIANO ANTONIO NUNES NETO LTDA
+2026-01-05 02:09:34,920 - INFO - CND baixada com sucesso: 48510343000122 - MARIO GOMES DA SILVA NETO 06280416321
+2026-01-05 02:09:45,119 - INFO - CND baixada com sucesso: 60784860000195 - MASTER ELETRO LTDA
+2026-01-05 02:09:52,090 - INFO - CND baixada com sucesso: 30285461000119 - MASTERPAINT CONSTRUÇÕES LTDA
+2026-01-05 02:10:29,719 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 00004421216364 (MATHEUS BOMFIM DE CARVALHO ROCHA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:11:06,152 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 00004421216364 (MATHEUS BOMFIM DE CARVALHO ROCHA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:11:39,072 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 00004421216364 (MATHEUS BOMFIM DE CARVALHO ROCHA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:12:11,562 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 00004421216364 (MATHEUS BOMFIM DE CARVALHO ROCHA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:12:49,045 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 00004421216364 (MATHEUS BOMFIM DE CARVALHO ROCHA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:13:21,529 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 60517237000176 (MATIZ SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:13:35,504 - INFO - CND baixada com sucesso: 60517237000176 - MATIZ SERVICOS LTDA
+2026-01-05 02:13:39,671 - INFO - CND baixada com sucesso: 54474108000145 - MBR CONSULTORIA E SERVICOS LTDA
+2026-01-05 02:13:56,920 - INFO - CND baixada com sucesso: 48897141000185 - MEDEIROS ASSOCIADOS LTDA
+2026-01-05 02:14:05,583 - INFO - CND baixada com sucesso: 58837665000134 - MEDEIROS COMERCIO DE ALIMENTOS LTDA
+2026-01-05 02:14:17,791 - INFO - CND baixada com sucesso: 62324308000140 - MEDLEAP INOVA SIMPLES (I.S.)
+2026-01-05 02:14:25,021 - INFO - CND baixada com sucesso: 63805405000117 - MEMORIAL ALTO DA PAZ LTDA
+2026-01-05 02:14:39,058 - INFO - CND baixada com sucesso: 59210812000104 - MESSEJANA 01 COMERCIAL DE OCULOS LTDA
+2026-01-05 02:15:15,812 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 59196175000169 (MESSEJANA 02 COMERCIAL DE OCULOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:15:30,513 - INFO - CND baixada com sucesso: 59196175000169 - MESSEJANA 02 COMERCIAL DE OCULOS LTDA
+2026-01-05 02:15:40,580 - INFO - CND baixada com sucesso: 41510880000123 - MG ASSESSORIA EM LOGISITICA INTERNACIONAL E COMERCIO EXTERIOR LTDA
+2026-01-05 02:15:57,709 - INFO - CND baixada com sucesso: 29370676000159 - MG EMPREENDIMENTOS E SOLUCOES LTDA
+2026-01-05 02:16:03,506 - INFO - CND baixada com sucesso: 46792349000104 - MG SOLUCOES IMOBILIARIAS LTDA
+2026-01-05 02:16:40,382 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 60517260000160 (MIANMAR COMERCIAL DE OCULOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:16:44,102 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 60517260000160 (MIANMAR COMERCIAL DE OCULOS LTDA): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-05 02:16:52,585 - INFO - CND baixada com sucesso: 60517260000160 - MIANMAR COMERCIAL DE OCULOS LTDA
+2026-01-05 02:17:00,426 - INFO - CND baixada com sucesso: 34412554000118 - MICROAPPOLLIS SERVICO DE INTERMEDIACAO DE NEGOCIOS E-COMMERCE LTDA
+2026-01-05 02:17:33,054 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 04569911000195 (MICROBIOTECH COMERCIAL LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:18:05,558 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 04569911000195 (MICROBIOTECH COMERCIAL LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:18:22,936 - INFO - CND baixada com sucesso: 04569911000195 - MICROBIOTECH COMERCIAL LTDA
+2026-01-05 02:18:27,281 - INFO - CND baixada com sucesso: 51634804000183 - MIDAS COMERCIAL DE OCULOS LTDA
+2026-01-05 02:18:39,308 - INFO - CND baixada com sucesso: 33440402000166 - MILENA HOLANDA ARQUITETURA LTDA
+2026-01-05 02:18:51,094 - INFO - CND baixada com sucesso: 61618962000101 - MILLEUP GESTAO E SERVICOS LTDA
+2026-01-05 02:18:59,339 - INFO - CND baixada com sucesso: 48897019000109 - MILOR IMOBILIARIA LTDA
+2026-01-05 02:19:27,940 - INFO - CND baixada com sucesso: 32878384000136 - MJ DA SILVA FERREIRA LTDA
+2026-01-05 02:20:04,165 - INFO - CND baixada com sucesso: 53044126000124 - MJ PRESTACAO DE SERVICOS LTDA
+2026-01-05 02:20:17,386 - INFO - CND baixada com sucesso: 62296607000118 - MM LOCACOES DE MAQUINAS LTDA
+2026-01-05 02:20:30,891 - INFO - CND baixada com sucesso: 54980948000180 - MMM SERVICOS VETERINARIOS LTDA
+2026-01-05 02:20:39,538 - INFO - CND baixada com sucesso: 24933550000121 - MONETA SERVICOS DE CONSULTORIA E ASSESSORIA EM INVESTIMENTOS FINANCEIROS E COMERCIO EXTERIOR LTDA
+2026-01-05 02:21:00,902 - INFO - CND baixada com sucesso: 32085682000179 - MONT SAINT CONSULTORIA E INVESTIMENTOS LTDA
+2026-01-05 02:21:33,413 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 34837255000125 (MONT SAINT PARTICIPACOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:22:06,469 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 34837255000125 (MONT SAINT PARTICIPACOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:22:15,380 - INFO - CND baixada com sucesso: 34837255000125 - MONT SAINT PARTICIPACOES LTDA
+2026-01-05 02:22:40,642 - INFO - CND baixada com sucesso: 49236227000120 - MPM GESTÃO & TECNOLOGIA LTDA ( CONSTITUIÇÃO)
+2026-01-05 02:23:05,459 - INFO - CND baixada com sucesso: 17548634000186 - MULTILAB SERVICOS OPTICOS LTDA
+2026-01-05 02:23:18,946 - INFO - CND baixada com sucesso: 55397875000160 - MULTIPLAN - MEDICINA HOSPITALAR E DIAGNOSTICOS LTDA
+2026-01-05 02:23:36,388 - INFO - CND baixada com sucesso: 50798906000171 - N.S.F SERVICOS LTDA
+2026-01-05 02:23:48,823 - INFO - CND baixada com sucesso: 53028739000178 - NATAL DO MAR LTDA
+2026-01-05 02:24:27,857 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 46054201000172 (NEXTLEVEL SOLUCOES INTEGRADAS LTDA): Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("label[for=\"cnpj\"]")
+    - locator resolved to <label for="cnpj" class="form-label">CNPJ (pessoas jurídicas)</label>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="page-loader-wrapper">…</div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-01-05 02:24:33,245 - INFO - CND baixada com sucesso: 46054201000172 - NEXTLEVEL SOLUCOES INTEGRADAS LTDA
+2026-01-05 02:24:40,506 - INFO - CND baixada com sucesso: 63506619000192 - NG HOLDING LTDA
+2026-01-05 02:24:49,133 - INFO - CND baixada com sucesso: 58510441000113 - NOGUEIRA & PESSOA SERVICOS MEDICOS LTDA
+2026-01-05 02:24:56,446 - INFO - CND baixada com sucesso: 50669723000156 - NST - CONSULTORIA, ENGENHARIA AMBIENTAL E DO TRABALHO LTDA
+2026-01-05 02:25:10,895 - INFO - CND baixada com sucesso: 11519356000152 - NUCLEO DE SAUDE DO TRABALHADOR CLINICA MEDICA LTDA
+2026-01-05 02:25:18,940 - INFO - CND baixada com sucesso: 19614384000160 - OBRA LUMEN DE EVANGELIZACAO
+2026-01-05 02:25:22,797 - INFO - CND baixada com sucesso: 17473131000199 - OFFICERENT SOLUTIONS LTDA
+2026-01-05 02:25:41,485 - INFO - CND baixada com sucesso: 10694250000122 - OLIVEIRA E CAVALCANTE COMERCIAL DE OCULOS LTDA
+2026-01-05 02:26:17,844 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 48251944000168 (OLIVEIRAS CONSULTORIA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:26:53,614 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 48251944000168 (OLIVEIRAS CONSULTORIA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:27:27,488 - INFO - CND baixada com sucesso: 48251944000168 - OLIVEIRAS CONSULTORIA LTDA
+2026-01-05 02:28:00,211 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 34321957000151 (OLKEEY.COM SISTEMA E SERVICOS DE INGRESSOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:28:28,025 - INFO - CND baixada com sucesso: 34321957000151 - OLKEEY.COM SISTEMA E SERVICOS DE INGRESSOS LTDA
+2026-01-05 02:28:52,712 - INFO - CND baixada com sucesso: 06007215000110 - ORCALBA ORGANIZACAO COMERCIAL ALVES DE BARROS LTDA
+2026-01-05 02:29:29,310 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 40180057000134 (ORLA PRAIA CLUB LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:30:04,084 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 40180057000134 (ORLA PRAIA CLUB LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:30:37,774 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 40180057000134 (ORLA PRAIA CLUB LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:31:10,333 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 40180057000134 (ORLA PRAIA CLUB LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:31:46,643 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 40180057000134 (ORLA PRAIA CLUB LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:32:22,943 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 00038767139353 (OTHONIEL ALVES DE OLIVEIRA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:32:55,497 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 00038767139353 (OTHONIEL ALVES DE OLIVEIRA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:33:27,950 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 00038767139353 (OTHONIEL ALVES DE OLIVEIRA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:34:00,481 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 00038767139353 (OTHONIEL ALVES DE OLIVEIRA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:34:32,957 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 00038767139353 (OTHONIEL ALVES DE OLIVEIRA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:35:05,243 - INFO - CND baixada com sucesso: 61917848000174 - OUI MOVIMENTO E BEM ESTAR LTDA
+2026-01-05 02:35:22,259 - INFO - CND baixada com sucesso: 60599419000133 - P.G. SERVICOS TECH LTDA
+2026-01-05 02:35:35,214 - INFO - CND baixada com sucesso: 20040171000151 - P3 SEGURANCA ELETRONICA LTDA
+2026-01-05 02:36:11,315 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 59150696000185 (PADARIA E MERCADINHO J. QUEIROZ LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:36:19,503 - INFO - CND baixada com sucesso: 59150696000185 - PADARIA E MERCADINHO J. QUEIROZ LTDA
+2026-01-05 02:36:23,462 - INFO - CND baixada com sucesso: 36565028000113 - PADRAO AUTOS, AERONAVES E IMOVEIS LTDA
+2026-01-05 02:36:30,450 - INFO - CND baixada com sucesso: 34999625000120 - PADT - SERVICOS OCUPACIONAIS LTDA
+2026-01-05 02:36:38,499 - INFO - CND baixada com sucesso: 48207449000151 - PATAS & MANHAS COMERCIO E SERVICOS LTDA
+2026-01-05 02:36:46,613 - INFO - CND baixada com sucesso: 73936098000167 - PAULO GURGEL VASCONCELOS FILHO
+2026-01-05 02:36:51,687 - INFO - CND baixada com sucesso: 59575627000113 - PAY X COMERCIO DIGITAL LTDA
+2026-01-05 02:36:57,340 - INFO - CND baixada com sucesso: 43454306000120 - PAY X DIGITAL LTDA
+2026-01-05 02:37:04,176 - INFO - CND baixada com sucesso: 59575859000171 - PAY X TECNOLOGIA, SERVICOS E PAGAMENTOS LTDA
+2026-01-05 02:37:15,241 - INFO - CND baixada com sucesso: 59527253000160 - PERES SERVICOS CORPORATIVOS LTDA
+2026-01-05 02:37:28,469 - INFO - CND baixada com sucesso: 07917508000106 - PERES SERVICOS DE SEGURANCA LTDA
+2026-01-05 02:37:36,517 - INFO - CND baixada com sucesso: 43694184000140 - PERES SERVICOS GERAIS LTDA
+2026-01-05 02:38:15,456 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 39454401000157 (PERESTRELO RESTAURANTE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:38:52,411 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 39454401000157 (PERESTRELO RESTAURANTE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:39:24,941 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 39454401000157 (PERESTRELO RESTAURANTE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:39:57,325 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 39454401000157 (PERESTRELO RESTAURANTE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:40:32,739 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 39454401000157 (PERESTRELO RESTAURANTE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:40:37,447 - INFO - CND baixada com sucesso: 23124433000154 - PET CLIN CLINICA VETERINARIA LTDA
+2026-01-05 02:40:50,472 - INFO - CND baixada com sucesso: 39906357000179 - PET ZEN SOCIEDADE LIMITADA
+2026-01-05 02:40:56,884 - INFO - CND baixada com sucesso: 55532266000177 - PETCLIN SERVICO VETERINARIOS LTDA
+2026-01-05 02:41:20,445 - INFO - CND baixada com sucesso: 48572810000149 - PETKLINIC SERVICOS LTDA
+2026-01-05 02:41:44,491 - INFO - CND baixada com sucesso: 04724789000184 - PHILO PJB COMERCIO DE ALIMENTOS LTDA
+2026-01-05 02:42:11,950 - INFO - CND baixada com sucesso: 60312852000146 - PHUKET ENTRETENIMENTO LTDA
+2026-01-05 02:42:24,034 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 26491078000140 (PINHO & ALBUQUERQUE ADVOGADOS ASSOCIADOS S/S): [Errno 2] No such file or directory: 'data/documentos/Estadual/CND_Estadual - 26491078000140 - PINHO & ALBUQUERQUE ADVOGADOS ASSOCIADOS S/S.pdf'
+2026-01-05 02:42:56,443 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 26491078000140 (PINHO & ALBUQUERQUE ADVOGADOS ASSOCIADOS S/S): [Errno 2] No such file or directory: 'data/documentos/Estadual/CND_Estadual - 26491078000140 - PINHO & ALBUQUERQUE ADVOGADOS ASSOCIADOS S/S.pdf'
+2026-01-05 02:43:18,918 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 26491078000140 (PINHO & ALBUQUERQUE ADVOGADOS ASSOCIADOS S/S): [Errno 2] No such file or directory: 'data/documentos/Estadual/CND_Estadual - 26491078000140 - PINHO & ALBUQUERQUE ADVOGADOS ASSOCIADOS S/S.pdf'
+2026-01-05 02:43:40,857 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 26491078000140 (PINHO & ALBUQUERQUE ADVOGADOS ASSOCIADOS S/S): [Errno 2] No such file or directory: 'data/documentos/Estadual/CND_Estadual - 26491078000140 - PINHO & ALBUQUERQUE ADVOGADOS ASSOCIADOS S/S.pdf'
+2026-01-05 02:43:49,707 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 26491078000140 (PINHO & ALBUQUERQUE ADVOGADOS ASSOCIADOS S/S): [Errno 2] No such file or directory: 'data/documentos/Estadual/CND_Estadual - 26491078000140 - PINHO & ALBUQUERQUE ADVOGADOS ASSOCIADOS S/S.pdf'
+2026-01-05 02:43:57,032 - INFO - CND baixada com sucesso: 60728528000103 - PINHO & ALBUQUERQUE ASSESSORIA LTDA
+2026-01-05 02:44:07,918 - INFO - CND baixada com sucesso: 30534387000127 - PINHO E ALBUQUERQUE PARTICIPACOES LTDA
+2026-01-05 02:44:20,142 - INFO - CND baixada com sucesso: 36210903000144 - PODECASH CORRETORA DE SEGUROS LTDA
+2026-01-05 02:44:32,132 - INFO - CND baixada com sucesso: 58496072000151 - PONTE&PORTELA COBRANCAS LTDA
+2026-01-05 02:44:36,406 - INFO - CND baixada com sucesso: 07059947000117 - PONTUAL COMERCIO DE MARMORES E GRANITOS EIRELI
+2026-01-05 02:44:43,344 - INFO - CND baixada com sucesso: 15120609000171 - PORTICUS ENGENHARIA LTDA
+2026-01-05 02:44:49,666 - INFO - CND baixada com sucesso: 57886450000140 - PPE ESTRUTURAL LTDA
+2026-01-05 02:45:21,997 - INFO - CND baixada com sucesso: 19455264000168 - PRATICA CONSTRUCOES E INCORPORACOES LTDA - ME
+2026-01-05 02:45:58,369 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 58433017000112 (PRATICA SOLUCOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:46:38,999 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 58433017000112 (PRATICA SOLUCOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:47:11,420 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 58433017000112 (PRATICA SOLUCOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:47:50,265 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 58433017000112 (PRATICA SOLUCOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:48:17,895 - INFO - CND baixada com sucesso: 58433017000112 - PRATICA SOLUCOES LTDA
+2026-01-05 02:48:50,511 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 34439589000140 (PRIME PINTURA & REFORMAS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:49:11,429 - INFO - CND baixada com sucesso: 34439589000140 - PRIME PINTURA & REFORMAS LTDA
+2026-01-05 02:49:43,866 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 62517589000157 (PRIMEMANUTENCAO E SERVICOS INDUSTRIAIS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:49:52,027 - INFO - CND baixada com sucesso: 62517589000157 - PRIMEMANUTENCAO E SERVICOS INDUSTRIAIS LTDA
+2026-01-05 02:50:28,802 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 44546744000181 (PRIMUS CONSTRUCOES E SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:51:05,201 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 44546744000181 (PRIMUS CONSTRUCOES E SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:51:19,145 - INFO - CND baixada com sucesso: 44546744000181 - PRIMUS CONSTRUCOES E SERVICOS LTDA
+2026-01-05 02:51:51,774 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 54824494000158 (PRIMUS SOLUCOES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:52:00,446 - INFO - CND baixada com sucesso: 54824494000158 - PRIMUS SOLUCOES LTDA
+2026-01-05 02:52:11,737 - INFO - CND baixada com sucesso: 48374211000110 - PRINCIPIA MEDICINA AVANCADA LTDA
+2026-01-05 02:52:47,298 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 52291575000104 (PRONTOSERV TERCEIRIZACAO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:52:50,994 - INFO - CND baixada com sucesso: 52291575000104 - PRONTOSERV TERCEIRIZACAO LTDA
+2026-01-05 02:53:28,630 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 17847081000162 (PROSPERE ASSESSORIA & CONSULTORIA LTDA EPP): Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("label[for=\"cnpj\"]")
+    - locator resolved to <label for="cnpj" class="form-label">CNPJ (pessoas jurídicas)</label>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="page-loader-wrapper">…</div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-01-05 02:53:52,300 - INFO - CND baixada com sucesso: 17847081000162 - PROSPERE ASSESSORIA & CONSULTORIA LTDA EPP
+2026-01-05 02:53:59,921 - INFO - CND baixada com sucesso: 54772349000170 - PV ENERGY LTDA
+2026-01-05 02:54:12,296 - INFO - CND baixada com sucesso: 44904924000198 - QUINTAS BOTANICO INCORPORACOES SPE LTDA
+2026-01-05 02:54:23,556 - INFO - CND baixada com sucesso: 39625703000140 - QUINTAS DAS PALMEIRAS INCORPORACOES SPE LTDA
+2026-01-05 02:54:27,769 - INFO - CND baixada com sucesso: 48874021000162 - QUINTAS DO BOSQUE INCORPORACOES SPE LTDA
+2026-01-05 02:54:34,870 - INFO - CND baixada com sucesso: 40454411000171 - QUINTAS DO CAMPO INCORPORACOES SPE LTDA
+2026-01-05 02:54:41,405 - INFO - CND baixada com sucesso: 44946999000131 - QUINTAS DO PADRE INCORPORACOES SPE LTDA
+2026-01-05 02:54:55,135 - INFO - CND baixada com sucesso: 07649011000146 - R L B PARTICIPACOES LTDA
+2026-01-05 02:55:08,588 - INFO - CND baixada com sucesso: 22693613000194 - R R FONSECA BRANDAO ME
+2026-01-05 02:55:20,056 - INFO - CND baixada com sucesso: 59408944000145 - R&G ENERGIA RENOVAVEL DO FUTURO LTDA
+2026-01-05 02:55:27,766 - INFO - CND baixada com sucesso: 13241022000195 - R. O. C. TREINAMENTO LTDA
+2026-01-05 02:55:35,427 - INFO - CND baixada com sucesso: 50650778000114 - R.C. SERVICOS DE TERCEIRIZACAO LTDA
+2026-01-05 02:55:41,464 - INFO - CND baixada com sucesso: 59386436000103 - R.F. TECH SERVICOS DIGITAIS LTDA
+2026-01-05 02:55:47,719 - INFO - CND baixada com sucesso: 23466147000177 - RADIO FM DO BARRO LTDA
+2026-01-05 02:56:26,352 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 00002037169302 (RAFAEL CANUTO GONCALVES): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:56:58,871 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 00002037169302 (RAFAEL CANUTO GONCALVES): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:57:31,426 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 00002037169302 (RAFAEL CANUTO GONCALVES): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:58:08,361 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 00002037169302 (RAFAEL CANUTO GONCALVES): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:58:43,209 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 00002037169302 (RAFAEL CANUTO GONCALVES): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:59:15,747 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 00004095130326 (RAFAEL VICTOR ALBUQUERQUE RODRIGUES DE L): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 02:59:48,241 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 00004095130326 (RAFAEL VICTOR ALBUQUERQUE RODRIGUES DE L): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:00:20,759 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 00004095130326 (RAFAEL VICTOR ALBUQUERQUE RODRIGUES DE L): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:01:02,678 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 00004095130326 (RAFAEL VICTOR ALBUQUERQUE RODRIGUES DE L): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:01:39,745 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 00004095130326 (RAFAEL VICTOR ALBUQUERQUE RODRIGUES DE L): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:01:55,467 - INFO - CND baixada com sucesso: 41513345000126 - RC SOLUCOES HOSPITALARES LTDA
+2026-01-05 03:02:31,918 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 30558979000189 (RCG SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:03:04,570 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 30558979000189 (RCG SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:03:45,288 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 30558979000189 (RCG SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:04:17,876 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 30558979000189 (RCG SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:04:54,177 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 30558979000189 (RCG SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:05:26,671 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 32849136000167 (RECANTO DE MARANGUAPE EMPREENDIMENTOS IMOBILIARIOS SPE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:05:35,454 - INFO - CND baixada com sucesso: 32849136000167 - RECANTO DE MARANGUAPE EMPREENDIMENTOS IMOBILIARIOS SPE LTDA
+2026-01-05 03:05:50,395 - INFO - CND baixada com sucesso: 26189405000103 - REGINA CELIA FONSECA FREITAS 45728291368
+2026-01-05 03:05:59,156 - INFO - CND baixada com sucesso: 01010942000113 - RENATA IMPORTADORA E COMERCIAL LTDA
+2026-01-05 03:06:03,263 - INFO - CND baixada com sucesso: 07628512000146 - RENTAL PRIMUS LTDA
+2026-01-05 03:06:17,446 - INFO - CND baixada com sucesso: 47691178000190 - RF FRANCHISING E PARTICIPACOES LTDA
+2026-01-05 03:06:49,869 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 54170290000140 (RK BRANDAO SERVICOS AUTOMOTIVOS E TRANSPORTES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:06:54,139 - INFO - CND baixada com sucesso: 54170290000140 - RK BRANDAO SERVICOS AUTOMOTIVOS E TRANSPORTES LTDA
+2026-01-05 03:07:04,075 - INFO - CND baixada com sucesso: 55818246000167 - ROLIM SERVICOS DE APOIO ADMINISTRATIVO E GESTAO DE ATIVOS LTDA
+2026-01-05 03:07:12,688 - INFO - CND baixada com sucesso: 57882034000174 - ROLIM SERVICOS EDUCACIONAIS LTDA
+2026-01-05 03:07:20,747 - INFO - CND baixada com sucesso: 10485502000103 - ROSEANE GOMES MONTEIRO
+2026-01-05 03:07:31,395 - INFO - CND baixada com sucesso: 11111111000191 - RUBRICAS PADRÕES
+2026-01-05 03:07:39,528 - INFO - CND baixada com sucesso: 24715474000188 - RV3 ENGENHARIA E AMBIENTACAO LTDA
+2026-01-05 03:07:45,257 - INFO - CND baixada com sucesso: 09152201000189 - S C V DE ANDRADE
+2026-01-05 03:08:20,854 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 09152201000260 (S C V DE ANDRADE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:08:31,974 - INFO - CND baixada com sucesso: 09152201000260 - S C V DE ANDRADE
+2026-01-05 03:08:44,622 - INFO - CND baixada com sucesso: 09152201000340 - S C V DE ANDRADE
+2026-01-05 03:09:21,160 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 09152201000421 (S C V DE ANDRADE): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:09:25,283 - INFO - CND baixada com sucesso: 09152201000421 - S C V DE ANDRADE
+2026-01-05 03:09:36,236 - INFO - CND baixada com sucesso: 62426338000167 - S.C. SOLAR LTDA
+2026-01-05 03:09:45,801 - INFO - CND baixada com sucesso: 52145491000162 - S.R. PIOTO CONSTRUCOES LTDA
+2026-01-05 03:09:54,036 - INFO - CND baixada com sucesso: 52145491000243 - S.R. PIOTO CONSTRUCOES LTDA
+2026-01-05 03:10:05,307 - INFO - CND baixada com sucesso: 19823754000170 - S2N BAR, RESTAURANTE E EVENTOS LTDA
+2026-01-05 03:10:12,451 - INFO - CND baixada com sucesso: 30761624000192 - SAGE I ITAITINGA SPE LTDA
+2026-01-05 03:10:23,951 - INFO - CND baixada com sucesso: 32736304000108 - SALAO DE BELEZA E ESTETICA STUDIO F FATI
+2026-01-05 03:10:32,498 - INFO - CND baixada com sucesso: 50533404000119 - SALES EMBALAGENS LTDA
+2026-01-05 03:10:44,220 - INFO - CND baixada com sucesso: 63030808000131 - SANTA LUZIA SOLAR 1 LTDA
+2026-01-05 03:10:51,984 - INFO - CND baixada com sucesso: 58478385000187 - SANTOS ENERGIA SOLAR LTDA
+2026-01-05 03:10:58,767 - INFO - CND baixada com sucesso: 22493687000187 - SC LOCACAO E SERVICOS LTDA
+2026-01-05 03:11:38,152 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 43272679000180 (SEIKATSU EMPRESA DE INVESTIMENTOS IMOBILIARIOS S.A.): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:11:41,984 - INFO - CND baixada com sucesso: 43272679000180 - SEIKATSU EMPRESA DE INVESTIMENTOS IMOBILIARIOS S.A.
+2026-01-05 03:11:48,345 - INFO - CND baixada com sucesso: 51165754000132 - SEPHORA GALVAO SERVICOS MEDICOS LTDA
+2026-01-05 03:12:27,556 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 41566674000135 (SERVICOS BASE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:13:00,044 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 41566674000135 (SERVICOS BASE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:13:35,645 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 41566674000135 (SERVICOS BASE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:14:08,298 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 41566674000135 (SERVICOS BASE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:14:50,799 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 41566674000135 (SERVICOS BASE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:15:01,343 - INFO - CND baixada com sucesso: 14985239000172 - SERVICOS BRANDAO LTDA
+2026-01-05 03:15:09,447 - INFO - CND baixada com sucesso: 45012270000150 - SERVICOS FENICIA LTDA
+2026-01-05 03:15:16,037 - INFO - CND baixada com sucesso: 07340821000116 - SIND DO COMERCIO VAREJ DE MAQ FER E TINTAS DE FORTALEZA
+2026-01-05 03:15:23,054 - INFO - CND baixada com sucesso: 37889047000168 - SIR FISHER COMERCIO DE ALIMENTOS LTDA
+2026-01-05 03:15:35,584 - INFO - CND baixada com sucesso: 60413781000178 - SIR FISHER IMPRENSA COMERCIO DE ALIMENTOS LTDA
+2026-01-05 03:15:39,141 - INFO - CND baixada com sucesso: 51685655000181 - SIR FISHER PUB COMERCIO DE ALIMENTOS LTDA
+2026-01-05 03:15:49,230 - INFO - CND baixada com sucesso: 28602488000146 - SOLAR PLUS BRASIL LTDA
+2026-01-05 03:16:13,943 - INFO - CND baixada com sucesso: 57484284000156 - SOLICITCARD PARTICIPACOES LTDA
+2026-01-05 03:16:52,426 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 54649493000114 (SOLLYDUS ENGENHARIA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:17:34,896 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 54649493000114 (SOLLYDUS ENGENHARIA LTDA): Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary")
+    - locator resolved to <button type="button" id="postButton" onclick="enviarGet()" class="btn btn-outline-secondary">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div id="loadingOverlay" class="loading-overlay">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div id="loadingOverlay" class="loading-overlay">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div id="loadingOverlay" class="loading-overlay">…</div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-01-05 03:18:07,233 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 54649493000114 (SOLLYDUS ENGENHARIA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:18:39,864 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 54649493000114 (SOLLYDUS ENGENHARIA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:19:12,445 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 54649493000114 (SOLLYDUS ENGENHARIA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:19:28,655 - INFO - CND baixada com sucesso: 19274495000256 - SOLUCAO OCUPACIONAL CLINICA MEDICA LTDA
+2026-01-05 03:19:53,866 - INFO - CND baixada com sucesso: 19274495000175 - SOLUCAO OCUPACIONAL CLINICA MEDICA LTDA ME
+2026-01-05 03:20:02,203 - INFO - CND baixada com sucesso: 05489856000196 - SPLASH EVENTOS E SERVICOS DE ORGANIZACAO DE FESTAS LTDA
+2026-01-05 03:20:28,988 - INFO - CND baixada com sucesso: 30422580000176 - SR COMERCIAL E ASSESSORIA EM COMERCIO EXTERIOR E LOGISTICA LTDA
+2026-01-05 03:20:39,022 - INFO - CND baixada com sucesso: 39719386000121 - SRH DE ANDRADE LTDA
+2026-01-05 03:20:51,817 - INFO - CND baixada com sucesso: 58020005000166 - SSA HOLDING PARTICIPACOES LTDA
+2026-01-05 03:20:55,832 - INFO - CND baixada com sucesso: 62669955000193 - STUDIO EDEN LTDA
+2026-01-05 03:21:05,544 - INFO - CND baixada com sucesso: 45681207000107 - STUDIO F FASHION LTDA
+2026-01-05 03:21:14,024 - INFO - CND baixada com sucesso: 54283001000110 - SUBLIME DA HORA CONFECCOES E FABRICACAO LTDA
+2026-01-05 03:21:20,277 - INFO - CND baixada com sucesso: 43160321000166 - SUN FARM LTDA.
+2026-01-05 03:21:36,150 - INFO - CND baixada com sucesso: 30366062000182 - SUNPLENA INVESTIMENTOS EM ENERGIA LTDA
+2026-01-05 03:21:41,094 - INFO - CND baixada com sucesso: 45966790000100 - T P FUJITA LTDA
+2026-01-05 03:21:59,437 - INFO - CND baixada com sucesso: 55053421000172 - T. SILVA SERVICOS LTDA
+2026-01-05 03:22:07,977 - INFO - CND baixada com sucesso: 51920943000173 - T.C COMERCIO DE ALIMENTOS LTDA
+2026-01-05 03:22:44,125 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 14929661000100 (T.COUTINHO DA SILVA RESTAURANTE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:23:16,758 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 14929661000100 (T.COUTINHO DA SILVA RESTAURANTE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:23:49,163 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 14929661000100 (T.COUTINHO DA SILVA RESTAURANTE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:24:22,381 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 14929661000100 (T.COUTINHO DA SILVA RESTAURANTE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:24:58,731 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 14929661000100 (T.COUTINHO DA SILVA RESTAURANTE LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:25:06,890 - INFO - CND baixada com sucesso: 61020547000143 - T.H. SERVICOS E MANUTENCAO LTDA
+2026-01-05 03:25:17,172 - INFO - CND baixada com sucesso: 63327341000196 - TACTO COMUNICACAO LTDA
+2026-01-05 03:25:36,472 - INFO - CND baixada com sucesso: 58058853000164 - TACTO COMUNICAÇÃO LTDA ( CONSTITUIÇÃO)
+2026-01-05 03:25:47,487 - INFO - CND baixada com sucesso: 63790499000106 - TASQUINHA REAL LTDA
+2026-01-05 03:25:59,030 - INFO - CND baixada com sucesso: 04761112000116 - TEATRO DO HUMOR SERVICOS E COMERCIO LTDA
+2026-01-05 03:26:07,491 - INFO - CND baixada com sucesso: 56152488000127 - TECH CORRETORA E SERVICOS ESPECIALIZADOS LTDA
+2026-01-05 03:26:10,096 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 53680400000151 (TECHHOST BRASIL LTDA): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-05 03:26:19,223 - INFO - CND baixada com sucesso: 53680400000151 - TECHHOST BRASIL LTDA
+2026-01-05 03:26:27,801 - INFO - CND baixada com sucesso: 62517782000198 - TECHPREDIO SERVICOS INTEGRADOS LTDA
+2026-01-05 03:26:41,242 - INFO - CND baixada com sucesso: 29448837000180 - TELEFOX AGENCIA DE NOTICIAS E TELECOMUNICACOES LTDA
+2026-01-05 03:26:44,971 - INFO - CND baixada com sucesso: 35220527000106 - TEST MERCADINHO SPED
+2026-01-05 03:26:53,477 - INFO - CND baixada com sucesso: 16935437000157 - TEX CALZONES COMERCIO DE ALIMENTOS E BEBIDAS LTDA
+2026-01-05 03:27:00,881 - INFO - CND baixada com sucesso: 16935437000319 - TEX CALZONES COMERCIO DE ALIMENTOS E BEBIDAS LTDA
+2026-01-05 03:27:04,497 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 61993702000108 (TGR CUMBUCO 01 INCORPORACOES SPE LTDA): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-05 03:27:13,025 - INFO - CND baixada com sucesso: 61993702000108 - TGR CUMBUCO 01 INCORPORACOES SPE LTDA
+2026-01-05 03:27:27,549 - INFO - CND baixada com sucesso: 33416402000120 - TGR ENGENHARIA LTDA
+2026-01-05 03:27:35,752 - INFO - CND baixada com sucesso: 60864088000111 - TGV HOLDING PARTICIPACOES LTDA
+2026-01-05 03:27:51,982 - INFO - CND baixada com sucesso: 49310871000109 - THCC ALIMENTOS LTDA
+2026-01-05 03:27:56,131 - INFO - CND baixada com sucesso: 51920971000190 - THE BAR PUB COMERCIO DE ALIMENTOS E BEBIDAS LTDA
+2026-01-05 03:28:05,876 - INFO - CND baixada com sucesso: 64098124000134 - TMM SERVICOS LTDA
+2026-01-05 03:28:09,439 - INFO - CND baixada com sucesso: 43240073000163 - TOKENAIM TECNOLOGIA E DESENVOLVIMENTO DE ATIVOS DIGITAIS LTDA
+2026-01-05 03:28:19,290 - INFO - CND baixada com sucesso: 42476746000116 - TORQUATO PARTICIPACOES LTDA
+2026-01-05 03:28:27,324 - INFO - CND baixada com sucesso: 62522090000138 - TOTALFIX SOLUCOES PREDIAIS LTDA
+2026-01-05 03:28:59,910 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 04042418000112 (TRAUMABONE COMERCIO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:29:32,410 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 04042418000112 (TRAUMABONE COMERCIO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:30:08,927 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 04042418000112 (TRAUMABONE COMERCIO LTDA): Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("label[for=\"cnpj\"]")
+    - locator resolved to <label for="cnpj" class="form-label">CNPJ (pessoas jurídicas)</label>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="page-loader-wrapper">…</div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-01-05 03:30:41,407 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 04042418000112 (TRAUMABONE COMERCIO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:31:13,878 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 04042418000112 (TRAUMABONE COMERCIO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:31:22,500 - INFO - CND baixada com sucesso: 63783117000109 - TRINO TECH SOLUCOES INTEGRADAS LTDA
+2026-01-05 03:31:54,592 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 15490483000208 (UNIVERSUS PRODUÇÕES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:32:14,480 - INFO - CND baixada com sucesso: 15490483000208 - UNIVERSUS PRODUÇÕES LTDA
+2026-01-05 03:32:54,956 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 15490483000127 (UNIVERSUS PRODUÇÕES LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:33:28,925 - INFO - CND baixada com sucesso: 15490483000127 - UNIVERSUS PRODUÇÕES LTDA
+2026-01-05 03:34:00,807 - INFO - CND baixada com sucesso: 13490192000103 - V. H. C. CONSULTORIA LTDA
+2026-01-05 03:34:14,831 - INFO - CND baixada com sucesso: 53325029000100 - V.D SERVICOS TECNOLOGICOS LTDA
+2026-01-05 03:34:47,423 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 52764963000165 (V.S CRATO SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:35:19,903 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 52764963000165 (V.S CRATO SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:35:32,332 - INFO - CND baixada com sucesso: 52764963000165 - V.S CRATO SERVICOS LTDA
+2026-01-05 03:36:12,313 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 41876109000174 (V1 SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:36:17,607 - INFO - CND baixada com sucesso: 41876109000174 - V1 SERVICOS LTDA
+2026-01-05 03:36:28,846 - INFO - CND baixada com sucesso: 18071075000129 - VARELA CONSULTORIA E TREINAMENTOS LTDA
+2026-01-05 03:37:01,305 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 20504899000197 (VERA LUCIA BRAGA ALVES 14249740382): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:37:35,470 - INFO - CND baixada com sucesso: 20504899000197 - VERA LUCIA BRAGA ALVES 14249740382
+2026-01-05 03:38:13,526 - INFO - CND baixada com sucesso: 26529629000117 - VERSE SOLUCOES EM TECNOLOGIA LTDA
+2026-01-05 03:38:25,543 - INFO - CND baixada com sucesso: 55527400000141 - VETCARE SERVICO VETERINARIOS LTDA
+2026-01-05 03:38:33,888 - INFO - CND baixada com sucesso: 53192150000100 - VISAO CAUCAIA COMERCIAL LTDA
+2026-01-05 03:38:52,567 - INFO - CND baixada com sucesso: 53325033000178 - VISAO DEZOITO SERVICOS LTDA
+2026-01-05 03:39:09,234 - INFO - CND baixada com sucesso: 53916584000106 - VISAO FRANQUEADORA GESTAO E CONSULTORIA LTDA
+2026-01-05 03:39:13,486 - INFO - CND baixada com sucesso: 59058282000120 - VISAO JUAZEIRO COMERCIAL DE OCULOS LTDA
+2026-01-05 03:39:29,479 - INFO - CND baixada com sucesso: 59183976000190 - VISAO LAURO COMERCIAL DE OCULOS LTDA
+2026-01-05 03:39:35,560 - INFO - CND baixada com sucesso: 59208336000197 - VISAO PRACA COMERCIAL DE OCULOS LTDA
+2026-01-05 03:39:39,374 - INFO - CND baixada com sucesso: 59167781000156 - VISAO QUINZE COMERCIAL DE OCULOS LTDA
+2026-01-05 03:39:45,951 - INFO - CND baixada com sucesso: 53313414000137 - VISAO SEIS SERVICOS LTDA
+2026-01-05 03:39:52,936 - INFO - CND baixada com sucesso: 59058922000100 - VISAO VINTE E CINCO COMERCIAL DE OCULOS LTDA
+2026-01-05 03:40:27,440 - INFO - CND baixada com sucesso: 59058108000188 - VISAO VINTE E QUATRO COMERCIAL DE OCULOS LTDA
+2026-01-05 03:40:36,756 - INFO - CND baixada com sucesso: 59182820000194 - VISAO WASHINGTON COMERCIAL DE OCULOS LTDA
+2026-01-05 03:40:43,402 - INFO - CND baixada com sucesso: 53360564000100 - VISB ARQUITETURA E CENOGRAFIA LTDA
+2026-01-05 03:40:55,694 - INFO - CND baixada com sucesso: 59183846000157 - VISONE NORTE COMERCIAL DE OCULOS LTDA
+2026-01-05 03:41:06,918 - INFO - CND baixada com sucesso: 59536505000118 - VIVA CURIMAS EMPREENDIMENTO IMOBILIARIO SPE LTDA
+2026-01-05 03:41:15,273 - INFO - CND baixada com sucesso: 44547188000168 - VLA ADMINISTRACAO E GESTAO LTDA
+2026-01-05 03:41:26,299 - INFO - CND baixada com sucesso: 53326935000129 - VLA CONSULTORIA LTDA
+2026-01-05 03:41:32,826 - INFO - CND baixada com sucesso: 53326926000138 - VLA DESENVOLVIMENTO PROFISSIONAL LTDA
+2026-01-05 03:41:41,839 - INFO - CND baixada com sucesso: 53326817000110 - VLA GESTAO EMPRESARIAL LTDA
+2026-01-05 03:41:58,414 - INFO - CND baixada com sucesso: 12030515000113 - VLA PUBLICIDADE LTDA
+2026-01-05 03:42:01,090 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 53326941000186 (VLA RECRUTAMENTO LTDA): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-05 03:42:11,962 - INFO - CND baixada com sucesso: 53326941000186 - VLA RECRUTAMENTO LTDA
+2026-01-05 03:42:26,642 - INFO - CND baixada com sucesso: 53326848000171 - VLA SERVICOS DE APOIO LTDA
+2026-01-05 03:43:03,428 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 53326866000153 (VLA SERVICOS DE COBRANCA LTDA): Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("label[for=\"cnpj\"]")
+    - locator resolved to <label for="cnpj" class="form-label">CNPJ (pessoas jurídicas)</label>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="page-loader-wrapper">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="page-loader-wrapper">…</div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-01-05 03:43:36,044 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 53326866000153 (VLA SERVICOS DE COBRANCA LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:43:44,430 - INFO - CND baixada com sucesso: 53326866000153 - VLA SERVICOS DE COBRANCA LTDA
+2026-01-05 03:43:48,228 - INFO - CND baixada com sucesso: 53326879000122 - VLA SERVICOS DE ESCRITORIO LTDA
+2026-01-05 03:44:23,147 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 79813879000140 (VLA SERVICOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:44:40,447 - INFO - CND baixada com sucesso: 79813879000140 - VLA SERVICOS LTDA
+2026-01-05 03:44:52,128 - INFO - CND baixada com sucesso: 39837961000190 - VOID TECNOLOGIAS EM COMPUTACAO LTDA
+2026-01-05 03:45:02,457 - INFO - CND baixada com sucesso: 58776219000167 - VORTEX MIDIAS DIGITAIS LTDA
+2026-01-05 03:45:10,469 - INFO - CND baixada com sucesso: 63673730000173 - VR ENGENHARIA E INSPECAO LTDA
+2026-01-05 03:45:17,958 - INFO - CND baixada com sucesso: 43902133000166 - VRT VAGNER RACE TEAM LTDA
+2026-01-05 03:45:23,938 - INFO - CND baixada com sucesso: 60726535000176 - W.A SERVICOS DIGITAIS LTDA
+2026-01-05 03:45:35,694 - INFO - CND baixada com sucesso: 57881788000100 - WAVE TGR INCORPORACOES SPE LTDA
+2026-01-05 03:45:47,064 - INFO - CND baixada com sucesso: 32891083000142 - WESLEY ALVES DA SILVA LIMA
+2026-01-05 03:45:54,915 - INFO - CND baixada com sucesso: 58757534000147 - WESLEY ALVES DA SILVA LIMA LTDA
+2026-01-05 03:45:59,066 - INFO - CND baixada com sucesso: 62898731000153 - WISE CENTRO COWORKING LTDA
+2026-01-05 03:46:28,016 - INFO - CND baixada com sucesso: 10760425000152 - WISE COWORKING LTDA
+2026-01-05 03:46:36,016 - INFO - CND baixada com sucesso: 34355626000132 - WP - COMERCIO DE BEBIDAS LTDA
+2026-01-05 03:46:44,089 - INFO - CND baixada com sucesso: 51927404000166 - X-TECH INOVACAO E TECNOLOGIA LTDA
+2026-01-05 03:47:20,640 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 23473077000184 (XIQUE XIQUE FM RADIOFUSAO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:47:33,438 - INFO - CND baixada com sucesso: 23473077000184 - XIQUE XIQUE FM RADIOFUSAO LTDA
+2026-01-05 03:48:08,021 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 45449614000193 (Y. E. Z. ENSINO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:48:09,092 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 45449614000193 (Y. E. Z. ENSINO LTDA): Page.goto: net::ERR_NETWORK_CHANGED at https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar
+Call log:
+  - navigating to "https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar", waiting until "load"
+
+2026-01-05 03:48:41,576 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 45449614000193 (Y. E. Z. ENSINO LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:49:06,510 - INFO - CND baixada com sucesso: 45449614000193 - Y. E. Z. ENSINO LTDA
+2026-01-05 03:49:43,001 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 59012635000151 (YA COMERCIO DE ALIMENTOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:50:17,673 - ERROR - Tentativa 2/5 - Erro ao baixar CND para 59012635000151 (YA COMERCIO DE ALIMENTOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:50:54,210 - ERROR - Tentativa 3/5 - Erro ao baixar CND para 59012635000151 (YA COMERCIO DE ALIMENTOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:51:29,840 - ERROR - Tentativa 4/5 - Erro ao baixar CND para 59012635000151 (YA COMERCIO DE ALIMENTOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:52:09,111 - ERROR - Tentativa 5/5 - Erro ao baixar CND para 59012635000151 (YA COMERCIO DE ALIMENTOS LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:52:46,375 - ERROR - Tentativa 1/5 - Erro ao baixar CND para 31643918000182 (YELLO BEIRA MAR LTDA): Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#tabelaDados tr button.btn-outline-secondary") to be visible
+
+2026-01-05 03:52:52,856 - INFO - CND baixada com sucesso: 31643918000182 - YELLO BEIRA MAR LTDA
+2026-01-05 03:53:00,370 - INFO - CND baixada com sucesso: 09033018000164 - Z. W. SERVICOS LTDA
+2026-01-05 03:53:11,315 - INFO - CND baixada com sucesso: 48309718000190 - ZENTERA FARMACEUTICA E BIOTECNOLOGIA LTDA
+2026-01-05 03:53:22,439 - INFO - CND baixada com sucesso: 40874636000187 - ZERO85 SERVICOS LTDA
+2026-01-05 03:53:35,056 - INFO - CND baixada com sucesso: 53660953000142 - ZETA SERVICOS LTDA
+2026-01-05 03:53:35,056 - INFO - Processo concluído.

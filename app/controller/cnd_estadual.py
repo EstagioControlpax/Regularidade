@@ -2,7 +2,7 @@ from playwright.sync_api import sync_playwright
 
 def baixar_cnd(cnpj: str, caminho_saida: str = "cnd.pdf"):
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
+        browser = p.chromium.launch(headless=True)
         page = browser.new_page()
         page.goto("https://consultapublica.sefaz.ce.gov.br/certidaonegativa/preparar-consultar")
 
