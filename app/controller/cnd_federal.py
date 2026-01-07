@@ -4,8 +4,13 @@ import time
 
 URL = "https://servicos.receitafederal.gov.br/servico/certidoes/#/home/cnpj"
 
+<<<<<<< HEAD
 def baixar_cnd_federal(cnpj: str, pasta_saida: str):
     os.makedirs(pasta_saida, exist_ok=True)
+=======
+def baixar_cnd_federal(cnpj: str, caminho_saida: str) -> None:
+    os.makedirs(caminho_final, exist_ok=True)
+>>>>>>> 1b33b999859da64f11c94b8675f188e9a38373e0
 
     with sync_playwright() as p:
         browser = p.chromium.launch(
@@ -16,6 +21,7 @@ def baixar_cnd_federal(cnpj: str, pasta_saida: str):
         context = browser.new_context(accept_downloads=True)
         page = context.new_page()
 
+<<<<<<< HEAD
         page.goto(URL, wait_until="domcontentloaded")
 
         campo = page.locator('input[placeholder="Digite o CNPJ"]')
@@ -28,6 +34,21 @@ def baixar_cnd_federal(cnpj: str, pasta_saida: str):
         campo.type(cnpj, delay=120)
 
         time.sleep(1)
+=======
+        page.goto(URL, wait_until="networkidle")
+
+        campo = page.locator('input[placeholder="Digite o CNPJ"]')
+        campo.wait_for(state="visible", timeout=30000)
+        campo.wait_for(state="editable", timeout=30000)
+
+        page.evaluate("""
+        (el, value) => {
+            el.value = value;
+            el.dispatchEvent(new Event('input', { bubbles: true }));
+            el.dispatchEvent(new Event('change', { bubbles: true }));
+        }
+        """, campo, cnpj)
+>>>>>>> 1b33b999859da64f11c94b8675f188e9a38373e0
 
         with page.expect_response(lambda r: "certidao" in r.url.lower()):
             page.click('button:has-text("Consultar")')
@@ -41,7 +62,11 @@ def baixar_cnd_federal(cnpj: str, pasta_saida: str):
         download = download_info.value
 
         nome_arquivo = f"CND_FEDERAL_{cnpj}.pdf"
+<<<<<<< HEAD
         caminho_final = os.path.join(pasta_saida, nome_arquivo)
+=======
+        caminho_final = os.path.join(caminho_saida, nome_arquivo)
+>>>>>>> 1b33b999859da64f11c94b8675f188e9a38373e0
         download.save_as(caminho_final)
 
         browser.close()
