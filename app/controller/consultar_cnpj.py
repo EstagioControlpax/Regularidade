@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import time
 import json
-import csv
 
 
 # ============================================================
@@ -36,9 +35,6 @@ def consultar_ie(cnpj: str) -> str:
         return "Sem Inscrição"
 
 
-# ============================================================
-# Função principal: Consulta CNPJ
-# ============================================================
 def consultar_cnpjs(lista_cnpjs: list) -> list:
     resultados = []
     for cnpj in lista_cnpjs:
