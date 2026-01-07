@@ -4,8 +4,8 @@ import time
 
 URL = "https://servicos.receitafederal.gov.br/servico/certidoes/#/home/cnpj"
 
-def baixar_cnd_federal(cnpj: str, pasta_saida: str):
-    os.makedirs(pasta_saida, exist_ok=True)
+def baixar_cnd_federal(cnpj: str, caminho_saida: str) -> None:
+    os.makedirs(caminho_final, exist_ok=True)
 
     with sync_playwright() as p:
         browser = p.chromium.launch(
@@ -17,9 +17,6 @@ def baixar_cnd_federal(cnpj: str, pasta_saida: str):
         page = context.new_page()
 
         page.goto(URL, wait_until="networkidle")
-
-        campo = page.locator('button:has-text("Aceitar")')
-        campo.click()
 
         campo = page.locator('input[placeholder="Digite o CNPJ"]')
         campo.wait_for(state="visible", timeout=30000)
@@ -45,7 +42,7 @@ def baixar_cnd_federal(cnpj: str, pasta_saida: str):
         download = download_info.value
 
         nome_arquivo = f"CND_FEDERAL_{cnpj}.pdf"
-        caminho_final = os.path.join(pasta_saida, nome_arquivo)
+        caminho_final = os.path.join(caminho_saida, nome_arquivo)
         download.save_as(caminho_final)
 
         browser.close()

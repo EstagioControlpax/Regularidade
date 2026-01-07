@@ -25,15 +25,15 @@ def consultar_cnd_estadual(caminho_csv: str) -> None:
         tentativa = 0
         while tentativa < max_tentativas:
             try:
-                baixar_cnd(cnpj, f"data/documentos/Estadual/CND_Estadual - {cnpj} - {empresa}.pdf")
+                baixar_cnd(cnpj, f"data/documentos/Estadual/{empresa} - {cnpj} - CND Estadual.pdf")
                 break
             except Exception as e:
                 tentativa += 1
                 if tentativa == max_tentativas:
                     logging.error(f"{empresa} - {cnpj}: {e}")
 
-def consultar_cnd_federal():
-    pass
+def consultar_cnd_federal(caminho_empresas: str, caminho_saida: str) -> None:
+    empresas = ler_csv(caminho_empresas)
 
 def consultar_cnpj(caminho_csv: str):
     empresas = ler_csv(caminho_csv)
@@ -48,4 +48,4 @@ def consultar_cnpj(caminho_csv: str):
     
     
 if __name__ == "__main__":
-    consultar_cnpjs(CAMINHO_EMPRESAS)
+    consultar_cnd_federal(CAMINHO_EMPRESAS, r"C:\Users\valbe\PycharmProjects\12_CNDs\data\documentos\Federal")
